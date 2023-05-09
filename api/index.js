@@ -48,7 +48,7 @@ app.get("/api/tracks/:id", (req, res) => {
 });
 
 app.listen(process.env.PORT, () => {
-  console.log(`[debug]: API is running on port ${process.env.PORT}...`);
+  console.log(`API is running on port ${process.env.PORT}...`);
 })
 
 module.exports = app;
