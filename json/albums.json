@@ -1,0 +1,3646 @@
+[
+  [
+    "3c5794a0-d913-390d-ab24-6762af38c112",
+    {
+      "name": "Silver Side Up",
+      "id": "3c5794a0-d913-390d-ab24-6762af38c112",
+      "releasedDate": "1988-10-07T10:34:21.080Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/80649fca746c7014df458258f983d63d.png",
+      "band": {
+        "name": "Nickelback",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Nickelback is a rock band which formed in Hanna, Alberta, Canada in 1995. Nickelback is one of the most commercially successful Canadian groups, having sold 30 million records worldwide. Nickelback ranks as the 11th best selling music act of the 2000s, and places as the 2nd best selling foreign act in the US behind The Beatles for the 2000s.\n\nThe band consists of Chad Kroeger (vocals, guitar), Ryan Peake (guitar, vocals), Mike Kroeger (bass) and Daniel Adair (drums). <a href=\"https://www.last.fm/music/Nickelback\">Read more on Last.fm</a>",
+        "numPlays": 17605491,
+        "id": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "albums": [
+          "3c5794a0-d913-390d-ab24-6762af38c112",
+          "9599042a-34a9-39f2-a52d-c903a382515c",
+          "b3fad414-9b92-4d04-b703-9605d5d33bac"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Never Again",
+          "duration": "260",
+          "id": "afef53c4-5a75-4ac8-aab8-8768bcecc819"
+        },
+        {
+          "name": "How You Remind Me",
+          "duration": "210",
+          "id": "72d983a3-b770-44e7-a033-12b35b1e2435"
+        },
+        {
+          "name": "Woke Up This Morning",
+          "duration": "230",
+          "id": "4c811204-4037-4a43-a34b-05d6b0404da8"
+        },
+        {
+          "name": "Too Bad",
+          "duration": "233",
+          "id": "ea08401c-691c-4ade-87ce-60a48f5ac31d"
+        },
+        {
+          "name": "Just For",
+          "duration": "243",
+          "id": "8dec129b-abf6-4b0b-8a5f-a7cf6432316d"
+        },
+        {
+          "name": "Hollywood",
+          "duration": "185",
+          "id": "74295d7d-d694-4473-97d8-93830e5aa3d1"
+        },
+        {
+          "name": "Money Bought",
+          "duration": "205",
+          "id": "97bd77d5-5bb9-49d8-9783-e71bbc154850"
+        },
+        {
+          "name": "Where Do I Hide",
+          "duration": "218",
+          "id": "8dfbbb2c-333b-4fb5-8add-48989bbd6bfd"
+        },
+        {
+          "name": "Hangnail",
+          "duration": "234",
+          "id": "be08630d-bf63-4e82-97db-c639f564543a"
+        },
+        {
+          "name": "Good Times Gone",
+          "duration": "318",
+          "id": "acf476b3-9e8a-421e-bf1e-60a6dabbf2a1"
+        }
+      ]
+    }
+  ],
+  [
+    "31e609d2-49aa-4b71-ad6e-57c0b0f54161",
+    {
+      "name": "Dizzy Up the Girl",
+      "id": "31e609d2-49aa-4b71-ad6e-57c0b0f54161",
+      "releasedDate": "1999-01-15T22:44:26.540Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/3f63676f773b4444a5b01cb735bc6c14.png",
+      "band": {
+        "name": "Goo Goo Dolls",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Goo Goo Dolls is an alternative rock band formed in 1985 in Buffalo, New York, USA by guitarist/vocalist John Rzeznik and bassist/vocalist Robby Takac initially under the name the Sex Maggots (the new name was chosen from an ad in True Detective magazine at the behest of a local club owner). They are most famous for the hit \"Iris\", featured on the soundtrack to the 1998 film City of Angels. Currently, the band consists of John Rzeznik (guitar, vocals) and Robby Takac (vocals, bass). <a href=\"https://www.last.fm/music/Goo+Goo+Dolls\">Read more on Last.fm</a>",
+        "numPlays": 3057200,
+        "id": "e2c00c56-8365-4160-9f40-a64682917633",
+        "albums": ["31e609d2-49aa-4b71-ad6e-57c0b0f54161"]
+      },
+      "tracks": [
+        {
+          "name": "Dizzy",
+          "duration": "161",
+          "id": "2aed81bc-1262-4c9e-8cbf-b1f1d39cc16c"
+        },
+        {
+          "name": "Slide",
+          "duration": "212",
+          "id": "b111e050-a8bf-4007-aaf0-5acdca3257b4"
+        },
+        {
+          "name": "Broadway",
+          "duration": "238",
+          "id": "a8b8a2a8-b994-4c52-add8-868ed40277e5"
+        },
+        {
+          "name": "January Friend",
+          "duration": "165",
+          "id": "69542cd0-a14f-4113-9bf1-ba4547204418"
+        },
+        {
+          "name": "Black Balloon",
+          "duration": "250",
+          "id": "3fe3d8b9-ddb1-4ec5-8c44-921f0da50963"
+        },
+        {
+          "name": "Bullet Proof",
+          "duration": "277",
+          "id": "a78fd0d6-3521-413d-ba99-4a9dfb2d7a6e"
+        },
+        {
+          "name": "Amigone",
+          "duration": "194",
+          "id": "dcbf0e19-9946-4762-8bdb-25e490eabffc"
+        },
+        {
+          "name": "All Eyes on Me",
+          "duration": "237",
+          "id": "4ba1a157-eb02-4197-ae92-f7057c9920a3"
+        },
+        {
+          "name": "Full Forever",
+          "duration": "171",
+          "id": "7429e121-52f5-43df-bf21-3470668f6f9a"
+        },
+        {
+          "name": "Acoustic #3",
+          "duration": "145",
+          "id": "012474d6-7bba-48d5-b585-636624c8532b"
+        },
+        {
+          "name": "Iris",
+          "duration": "292",
+          "id": "6fc953c8-2de4-4c22-a3d4-392229b9f3ae"
+        },
+        {
+          "name": "Extra Pale",
+          "duration": "130",
+          "id": "2f6c82c9-2003-45ad-9a2c-2877ea118dfb"
+        },
+        {
+          "name": "Hate This Place",
+          "duration": "264",
+          "id": "e014d2a0-fb0d-4412-8f96-d4509b14f86d"
+        }
+      ]
+    }
+  ],
+  [
+    "d287c703-5c25-3181-85d4-4d8c1a7d8ecd",
+    {
+      "name": "The Joshua Tree",
+      "id": "d287c703-5c25-3181-85d4-4d8c1a7d8ecd",
+      "releasedDate": "1993-11-18T06:47:38.870Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/b746f016aef9f8a8274c3f377e0d6316.png",
+      "band": {
+        "name": "U2",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "U2 are an Irish  alternative rock band from Dublin formed in 1976. The group consists of Bono (lead vocals and rhythm guitar), the Edge (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion). Initially rooted in post-punk, U2's musical style evolved throughout their career, yet has maintained an anthemic sound built on Bono's expressive vocals and the Edge's effects-based guitar textures. <a href=\"https://www.last.fm/music/U2\">Read more on Last.fm</a>",
+        "numPlays": 8168159,
+        "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+        "albums": [
+          "d287c703-5c25-3181-85d4-4d8c1a7d8ecd",
+          "650ed589-c6c2-3bdf-a132-e781020bcbff",
+          "b8271363-265a-43b9-b9ac-488fd3a4811a"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Where the Streets Have No Name",
+          "duration": "286",
+          "id": "a1d52e2e-71ca-46cd-984e-e05a27db4889"
+        },
+        {
+          "name": "I Still Haven't Found What I'm Looking For",
+          "duration": "278",
+          "id": "8fea9c7d-f103-41b3-9978-cbb0945f152d"
+        },
+        {
+          "name": "With or Without You",
+          "duration": "296",
+          "id": "81f248f3-491b-48fe-9f71-3dc1b90c6fb5"
+        },
+        {
+          "name": "Bullet the Blue Sky",
+          "duration": "272",
+          "id": "0298bccc-e9b9-426c-99cf-12e41d8a9b60"
+        },
+        {
+          "name": "Running to Stand Still",
+          "duration": "260",
+          "id": "48b605fa-7ad6-4f60-a903-667c35ceefd6"
+        },
+        {
+          "name": "Red Hill Mining Town",
+          "duration": "291",
+          "id": "75787b86-3d6a-49da-a52a-7c7303eb52c7"
+        },
+        {
+          "name": "In God's Country",
+          "duration": "169",
+          "id": "4fd486f8-7404-4676-9f49-4443a0b9fc71"
+        },
+        {
+          "name": "Trip Through Your Wires",
+          "duration": "212",
+          "id": "3bb0c03a-3a06-47e3-a571-74648d410d32"
+        },
+        {
+          "name": "One Tree Hill",
+          "duration": "324",
+          "id": "d89497ec-ecde-472c-aab3-5b9141445cb7"
+        },
+        {
+          "name": "Exit",
+          "duration": "254",
+          "id": "a8c8872f-6676-458a-91f8-b2a81c98d2a4"
+        },
+        {
+          "name": "Mothers of the Disappeared",
+          "duration": "314",
+          "id": "c1f13e58-a813-4e8d-9710-e0546cce207c"
+        }
+      ]
+    }
+  ],
+  [
+    "b96e45bf-f2a9-4267-be5c-f53b08293b1d",
+    {
+      "name": "Hipertrofia",
+      "id": "b96e45bf-f2a9-4267-be5c-f53b08293b1d",
+      "releasedDate": "2015-12-17T14:24:01.411Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/75650d22076b49da3da1494904c7ef20.png",
+      "band": {
+        "name": "Coma",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "For the french punk band, see C.O.M.A.\nThere are multiple artists with this name:\n\n1) Coma was a Polish alternative rock band, founded in 1998 in Łódź by Dominik Witczak (guitar) and Tomasz Stasiak (drums). They disbanded in 2019.\n\nThe first album \"Pierwsze Wyjście z Mroku\" was released in 2004. After winning the Rock Festival in Węgorzewo the band became very popular in Poland. The second album, \"Zaprzepaszczone Siły Wielkiej Armii Świętych Znaków\" was released in May 2006.  <a href=\"https://www.last.fm/music/Coma\">Read more on Last.fm</a>",
+        "numPlays": 7660252,
+        "id": "de548477-205e-4802-8908-e71d3ad67be0",
+        "albums": ["b96e45bf-f2a9-4267-be5c-f53b08293b1d"]
+      },
+      "tracks": [
+        {
+          "name": "Party",
+          "duration": "231",
+          "id": "cc7b0043-d56a-4078-ad28-3ae2d5f491dc"
+        },
+        {
+          "name": "Wola istnienia...",
+          "duration": "347",
+          "id": "536a4539-e364-46c7-adbf-627f29c303f2"
+        },
+        {
+          "name": "After Party",
+          "duration": "35",
+          "id": "42f7ec6f-1ef5-4905-9a4a-cd64e19866ba"
+        },
+        {
+          "name": "Lśnienie",
+          "duration": "274",
+          "id": "4172e91b-85b2-494e-9ec9-ff9d3670693f"
+        },
+        {
+          "name": "Diagnoza",
+          "duration": "95",
+          "id": "3950d8a0-f0b9-44dd-bfab-6982f04073c9"
+        },
+        {
+          "name": "Transfuzja",
+          "duration": "260",
+          "id": "f0254aa6-2ca2-48c4-8178-714c18fd1c1d"
+        },
+        {
+          "name": "Przesilenie",
+          "duration": "64",
+          "id": "c3c6038a-8e7d-48e1-b139-5df9a6c51796"
+        },
+        {
+          "name": "Nadmiar",
+          "duration": "189",
+          "id": "4e7d7915-c1c4-4e50-809c-4beb2c71ced7"
+        },
+        {
+          "name": "Nowe tereny migreny",
+          "duration": "75",
+          "id": "a12644a6-3117-49e3-af46-90e5bf888c3e"
+        },
+        {
+          "name": "Trujące rośliny",
+          "duration": "362",
+          "id": "71b6e958-3c96-40a8-a7da-c0bdeb57026f"
+        },
+        {
+          "name": "Ciągi i pociągi",
+          "duration": "112",
+          "id": "b2b02e1c-f677-4f18-9068-baa7cc62149a"
+        },
+        {
+          "name": "Osobowy",
+          "duration": "127",
+          "id": "8f9f18f2-4fd4-4081-adde-a865f7ad4ac4"
+        },
+        {
+          "name": "Loty i odloty",
+          "duration": "101",
+          "id": "7f9cd55e-6871-41a9-9886-709df8967718"
+        },
+        {
+          "name": "Emigracja",
+          "duration": "266",
+          "id": "b4d4587e-bbb2-47b2-b95d-be2c63d9d6ac"
+        },
+        {
+          "name": "Stosunek do służby wojskowej",
+          "duration": "34",
+          "id": "5d8e526d-daea-498a-84f1-9bee7237b9db"
+        },
+        {
+          "name": "Zero osiem wojna",
+          "duration": "275",
+          "id": "9e45a24f-34f0-46dd-a447-aa6a10596cce"
+        },
+        {
+          "name": "Polish Ham",
+          "duration": "71",
+          "id": "2eee1283-0c7f-49ec-80c2-530f76969ae7"
+        },
+        {
+          "name": "Pożegnanie z mistrzami",
+          "duration": "236",
+          "id": "8f8b4afa-8601-4ff0-851e-165f0ab24eca"
+        },
+        {
+          "name": "Chrum!",
+          "duration": "4",
+          "id": "16d06adc-dc4c-4948-af1d-a925602bdaee"
+        },
+        {
+          "name": "Świadkowie schyłku czasu królestwa wiecznych chłopców",
+          "duration": "303",
+          "id": "370c6ed9-73f6-4ed1-9968-13141615928c"
+        },
+        {
+          "name": "Koniec pewnego etapu",
+          "duration": "28",
+          "id": "de8af0e0-fbef-41dd-9e73-4f0bdc5d3456"
+        },
+        {
+          "name": "Początek pewnego etapu",
+          "duration": "53",
+          "id": "686ff298-7231-4040-9f14-78603c4121a8"
+        },
+        {
+          "name": "Ekhart",
+          "duration": "639",
+          "id": "9317d153-28fa-45c4-89ed-5c73963263c8"
+        },
+        {
+          "name": "Na na na na",
+          "duration": "48",
+          "id": "526c243c-ce19-4741-949f-e3cc2380f2a6"
+        },
+        {
+          "name": "Zamęt",
+          "duration": "209",
+          "id": "450bc344-1d5b-4a63-bf6d-c505ec528eec"
+        },
+        {
+          "name": "Zwalniamy",
+          "duration": "65",
+          "id": "0c122997-47dd-47fe-9844-4dbf96ab7204"
+        },
+        {
+          "name": "Widokówka",
+          "duration": "410",
+          "id": "7085ed88-ef47-4fad-9575-23f3f5584040"
+        },
+        {
+          "name": "Przestrzeń nie-rzeczywista",
+          "duration": "62",
+          "id": "31d0038f-b811-4477-89c1-d92f324d24ac"
+        },
+        {
+          "name": "Parapet",
+          "duration": "210",
+          "id": "a2c1351e-c75f-4d75-aea3-747851653b0a"
+        },
+        {
+          "name": "Popołudnia bezkarnie cytrynowe",
+          "duration": "386",
+          "id": "766cc9f4-3c2b-43db-9a7c-9880fedd25fc"
+        },
+        {
+          "name": "Ślimak",
+          "duration": "15",
+          "id": "6a56a6bc-9853-4755-89d0-a042db3194c7"
+        },
+        {
+          "name": "Cisza i ogień",
+          "duration": "552",
+          "id": "3069b542-71a9-4370-896a-2d7f0bb910ff"
+        },
+        {
+          "name": "Epilog ze starym prykiem",
+          "duration": "93",
+          "id": "15a261f8-c60b-4dcb-b336-d4170556574d"
+        },
+        {
+          "name": "Archipelagi",
+          "duration": "295",
+          "id": "d72f35dc-8061-4261-b50c-ba08d0f6bbb2"
+        },
+        {
+          "name": "Recykling",
+          "duration": "106",
+          "id": "14a9d83c-a169-4e96-84dd-1fd4d11aab05"
+        }
+      ]
+    }
+  ],
+  [
+    "52711131-54dc-3d9b-9cc1-1e8cd8bfe928",
+    {
+      "name": "The Fray",
+      "id": "52711131-54dc-3d9b-9cc1-1e8cd8bfe928",
+      "releasedDate": "2019-07-10T07:38:37.229Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/67f65a24646b6ad7de63485b78a7a383.png",
+      "band": {
+        "name": "The Fray",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "alternative",
+        "biography": "From the sleepy sprawl of America's 'Mile-High City', Denver, Colorado, United States, comes The Fray, a foursome whose melodic piano rock songs and soaring vocals resonate with sprawling tapestries and tales of hopefulness and heartache. Formed in 2002 by Isaac Slade (vocals, piano) and Joe King (guitar, vocals), The Fray earned a loyal grassroots following through impressive area gigs and the support of local radio, which led a listener-driven campaign to get the band a record contract. <a href=\"https://www.last.fm/music/The+Fray\">Read more on Last.fm</a>",
+        "numPlays": 5518507,
+        "id": "2ddd167f-5b8a-4372-b350-6ad50493bac0",
+        "albums": ["52711131-54dc-3d9b-9cc1-1e8cd8bfe928"]
+      },
+      "tracks": [
+        {
+          "name": "Syndicate",
+          "duration": "212",
+          "id": "93ccd469-7625-4201-8fe1-8ed63f53acd2"
+        },
+        {
+          "name": "Absolute",
+          "duration": "229",
+          "id": "5f1b54c2-9407-48f3-a48a-0f074f2bc4f8"
+        },
+        {
+          "name": "You Found Me",
+          "duration": "243",
+          "id": "b251d5cf-0cb7-458f-b519-09f9fd40200a"
+        },
+        {
+          "name": "Say When",
+          "duration": "305",
+          "id": "11ba9d85-e3f0-4861-8f9c-c31401419022"
+        },
+        {
+          "name": "Never Say Never",
+          "duration": "257",
+          "id": "ec7af863-f7a8-4e1d-8e9c-1accf058f185"
+        },
+        {
+          "name": "Where the Story Ends",
+          "duration": "237",
+          "id": "01de288c-b6c6-4613-a07b-4bcfb447bc37"
+        },
+        {
+          "name": "Enough for Now",
+          "duration": "257",
+          "id": "c9d9165b-6231-4f1c-b848-38315e72f30a"
+        },
+        {
+          "name": "Ungodly Hour",
+          "duration": "304",
+          "id": "082842d5-218f-40f2-8f95-f81e79a0232f"
+        },
+        {
+          "name": "We Build Then We Break",
+          "duration": "228",
+          "id": "18f172d3-0e9d-4cbc-8807-9b7af865de75"
+        },
+        {
+          "name": "Happiness",
+          "duration": "324",
+          "id": "1c6235fc-4180-4fec-ae5a-820a08e5ff1a"
+        }
+      ]
+    }
+  ],
+  [
+    "3b596a65-aa92-4b2f-92bb-7547dc77dd34",
+    {
+      "name": "Weathered",
+      "id": "3b596a65-aa92-4b2f-92bb-7547dc77dd34",
+      "releasedDate": "2013-08-17T08:31:22.259Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/397a546626eecdfbd55527580a5dbc2a.png",
+      "band": {
+        "name": "Creed",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "There are multiple artists with this name:\n1. An American post-grunge band.\n2. An American blues rock band from the 1970's\n3. A German metal band\n\nCreed was an American post-grunge band, from Tallahassee, Florida, that became commercially successful during the late '90s.\n\nCreed formed in 1994 with their debut album, My Own Prison. After hearing them play live, Diana Meltzer of Wind-Up Records decided to sign the band to her label. After making it more radio friendly <a href=\"https://www.last.fm/music/Creed\">Read more on Last.fm</a>",
+        "numPlays": 8152773,
+        "id": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
+        "albums": ["3b596a65-aa92-4b2f-92bb-7547dc77dd34"]
+      },
+      "tracks": [
+        {
+          "name": "Bullets",
+          "duration": "230",
+          "id": "316b9988-e494-4891-a217-82cc29f4995e"
+        },
+        {
+          "name": "Freedom Fighter",
+          "duration": "156",
+          "id": "144f796a-0a7e-4141-9481-3af897f8bdc6"
+        },
+        {
+          "name": "Who's Got My Back?",
+          "duration": "506",
+          "id": "c045300e-4f64-42da-8db8-13f8e9524a3b"
+        },
+        {
+          "name": "Signs",
+          "duration": "269",
+          "id": "d20908a5-8058-4294-95e1-15ba894766b2"
+        },
+        {
+          "name": "One Last Breath",
+          "duration": "238",
+          "id": "985fd1b4-5cd7-451e-8242-3bef611a35f1"
+        },
+        {
+          "name": "My Sacrifice",
+          "duration": "295",
+          "id": "b3b9f047-a7e4-49ba-a9f5-f27d9bcb635d"
+        },
+        {
+          "name": "Stand Here With Me",
+          "duration": "257",
+          "id": "8595fb4d-6bc5-444b-a7a4-e4c52a62427b"
+        },
+        {
+          "name": "Weathered",
+          "duration": "330",
+          "id": "f38e9bb6-aaef-4ae9-b542-895309f0b4c8"
+        },
+        {
+          "name": "Hide",
+          "duration": "267",
+          "id": "d7c21a53-d2c2-4f01-a2c2-6054b832fd45"
+        },
+        {
+          "name": "Don't Stop Dancing",
+          "duration": "266",
+          "id": "ccabe562-964f-41d1-b0cf-3912181e6b68"
+        },
+        {
+          "name": "Lullaby",
+          "duration": "184",
+          "id": "5791345f-ca28-4dcd-bb56-f44cf1b4f269"
+        }
+      ]
+    }
+  ],
+  [
+    "e6c5189b-360f-460b-852e-909e21e6392d",
+    {
+      "name": "Finding Beauty in Negative Spaces",
+      "id": "e6c5189b-360f-460b-852e-909e21e6392d",
+      "releasedDate": "1998-06-30T17:50:43.169Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/0c7646db6d754068afdfba51ee460fd9.png",
+      "band": {
+        "name": "Seether",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Seether are a rock band founded in May 1999 in Pretoria, Gauteng, South Africa. The band originally performed under the name Saron Gas until 2002, when they moved to the United States and changed it to Seether to avoid confusion with the deadly chemical known as sarin gas.\n\nSeether gained mainstream popularity in 2002 with their US Active Rock number one single \"Fine Again\", and their success was sustained in 2004 with the single \"Broken\", which peaked at number 20 on the Billboard Hot 100. <a href=\"https://www.last.fm/music/Seether\">Read more on Last.fm</a>",
+        "numPlays": 3993960,
+        "id": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+        "albums": ["e6c5189b-360f-460b-852e-909e21e6392d"]
+      },
+      "tracks": [
+        {
+          "name": "Like Suicide",
+          "duration": "254",
+          "id": "607303be-638f-4485-9cbd-774f3c585feb"
+        },
+        {
+          "name": "Fake It",
+          "duration": "193",
+          "id": "7a82bc3e-c76f-4b83-b11b-e14892da9cc4"
+        },
+        {
+          "name": "Breakdown",
+          "duration": "209",
+          "id": "f95aef8e-3309-4bf4-a7ac-4746a4bbd6db"
+        },
+        {
+          "name": "FMLYHM",
+          "duration": "208",
+          "id": "41c767c4-4398-47fe-b705-f67e5e9f37c0"
+        },
+        {
+          "name": "Fallen",
+          "duration": "258",
+          "id": "00f24d9a-841e-40c3-9b92-e13a20e08e1f"
+        },
+        {
+          "name": "Rise Above This",
+          "duration": "203",
+          "id": "e8896d45-a939-4f7a-ad1f-87dfd210147e"
+        },
+        {
+          "name": "No Jesus Christ",
+          "duration": "425",
+          "id": "2e5e7231-a2a9-4be7-9451-95fd63037ba2"
+        },
+        {
+          "name": "6 Gun Quota",
+          "duration": "203",
+          "id": "f17d86a9-4dbe-4638-a80d-854eae1df9ce"
+        },
+        {
+          "name": "Walk Away from the Sun",
+          "duration": "253",
+          "id": "44711a8c-6ed9-4d8d-bdaa-96d59e525860"
+        },
+        {
+          "name": "Eyes of the Devil",
+          "duration": "300",
+          "id": "f9cad1ec-6a33-4424-9fb2-2a2dd49be1f9"
+        },
+        {
+          "name": "Don't Believe",
+          "duration": "274",
+          "id": "1ff144df-c107-4b9e-a8bc-8edb6a031ddb"
+        },
+        {
+          "name": "Waste",
+          "duration": "261",
+          "id": "0baa7942-9215-45a3-ad63-eced63ef47f5"
+        },
+        {
+          "name": "Careless Whisper",
+          "duration": "297",
+          "id": "419fa395-db66-425a-b6d5-57c39326903d"
+        },
+        {
+          "name": "Careless Whisper (Strings Version)",
+          "duration": "264",
+          "id": "8c58ebcd-5e1d-4a07-8ddc-2f465780510f"
+        }
+      ]
+    }
+  ],
+  [
+    "04a93f62-fd7f-4e5b-a0ce-7ca314b44874",
+    {
+      "name": "Cities",
+      "id": "04a93f62-fd7f-4e5b-a0ce-7ca314b44874",
+      "releasedDate": "1996-01-22T14:24:36.262Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/f5f2dbdf1f2e4c8dbf9ad35de3733c5f.png",
+      "band": {
+        "name": "Anberlin",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Anberlin was formed in 2002 in Winter Haven, FL, USA and disbanded after the release of their final album, lowborn, in 2014. Their debut album, Blueprints for the Black Market, was quite successful. Spurred on by popular singles Readyfuels and Change the World, it sold over 60,000 copies and raised Anberlin's profile. They released their sophomore album, Never Take Friendship Personal, in February 2005. The album was praised by critics, garnering favourable reviews and winning the band new fans. <a href=\"https://www.last.fm/music/Anberlin\">Read more on Last.fm</a>",
+        "numPlays": 1199079,
+        "id": "c648509e-9916-4c56-ab63-652a03da16dd",
+        "albums": ["04a93f62-fd7f-4e5b-a0ce-7ca314b44874"]
+      },
+      "tracks": [
+        {
+          "name": "(Début)",
+          "duration": "87",
+          "id": "9dd27c87-edda-429c-993b-9359d22e98f8"
+        },
+        {
+          "name": "Godspeed",
+          "duration": "183",
+          "id": "7697cfea-ded8-4dfa-8a6f-2008ca751b74"
+        },
+        {
+          "name": "Adelaide",
+          "duration": "194",
+          "id": "c2e02770-7de5-49dc-8ad6-15d3406e3891"
+        },
+        {
+          "name": "A Whisper & a Clamor",
+          "duration": "205",
+          "id": "6061c1e9-d9bc-4536-9328-6b55b29d084c"
+        },
+        {
+          "name": "The Unwinding Cable Car",
+          "duration": "257",
+          "id": "09c1a6c4-1b3c-459c-b529-ed2cf5fc8f30"
+        },
+        {
+          "name": "There Is No Mathematics To Love And Loss",
+          "duration": "191",
+          "id": "c33b82ec-22b1-45a9-9150-a43816431f59"
+        },
+        {
+          "name": "Hello Alone",
+          "duration": "240",
+          "id": "594388c2-69ef-4107-acee-535758046180"
+        },
+        {
+          "name": "Alexithymia",
+          "duration": "203",
+          "id": "9065a113-963c-4069-b1a5-d348d3ddfa42"
+        },
+        {
+          "name": "Reclusion",
+          "duration": "211",
+          "id": "d66aaaf9-87c4-4936-836f-1c0f1cfbaa60"
+        },
+        {
+          "name": "Inevitable",
+          "duration": "227",
+          "id": "ac96337f-c722-4d34-bbc9-5a41f886c150"
+        },
+        {
+          "name": "Dismantle.Repair.",
+          "duration": "258",
+          "id": "3e425e20-e717-4eb7-9b92-795c62ea4a7f"
+        },
+        {
+          "name": "(*Fin)",
+          "duration": "536",
+          "id": "fbce3119-97b0-49b6-b072-4c175384840f"
+        }
+      ]
+    }
+  ],
+  [
+    "b601a51c-fd3b-41cd-9d78-29efde7a3ffa",
+    {
+      "name": "The Pick of Destiny",
+      "id": "b601a51c-fd3b-41cd-9d78-29efde7a3ffa",
+      "releasedDate": "2012-06-13T06:06:48.594Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/9c3d305fe2b74c7d80020ac641ff39ca.png",
+      "band": {
+        "name": "Tenacious D",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Tenacious D (often referred to as \"The D\" and sometimes introduced as \"The Greatest Band in the world. Period.\") is an American satirical rock duo formed by musicians and actors Kyle Gass and Jack Black in Los Angeles, California in 1994. Their music fuses vulgar absurdist comedy with rock music in a style that critics have described as \"mock rock\". The band first gained reputation in 1999, starring in a self-titled HBO TV series. The drumming on <a href=\"https://www.last.fm/music/Tenacious+D\">Read more on Last.fm</a>",
+        "numPlays": 15071871,
+        "id": "148ddea2-6839-4354-8e2c-5dfadf136b7f",
+        "albums": [
+          "b601a51c-fd3b-41cd-9d78-29efde7a3ffa",
+          "d1cc351e-add4-34ec-b411-4c52cb432727"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Kickapoo",
+          "duration": "254",
+          "id": "5ad26977-fadf-4403-bdf0-095a920685d6"
+        },
+        {
+          "name": "Classico",
+          "duration": "58",
+          "id": "b26f0dca-97fa-4e5a-b01f-fd15e65d3dc3"
+        },
+        {
+          "name": "Baby",
+          "duration": "96",
+          "id": "9eeccdbf-f150-4e47-bd58-61f85d16bf9b"
+        },
+        {
+          "name": "Destiny",
+          "duration": "37",
+          "id": "ff2d5079-e888-4a89-95b5-61bca9f50a1f"
+        },
+        {
+          "name": "History",
+          "duration": "102",
+          "id": "9f128b69-48c7-438f-b128-45717136a066"
+        },
+        {
+          "name": "The Government Totally Sucks",
+          "duration": "94",
+          "id": "0343b98e-b108-4548-8b0b-338fec9501a3"
+        },
+        {
+          "name": "Master Exploder",
+          "duration": "144",
+          "id": "06ddcfb4-164a-411a-94e7-2345fb389952"
+        },
+        {
+          "name": "The Divide",
+          "duration": "22",
+          "id": "1ae45a79-ccdd-49df-8f6f-567bd09f5166"
+        },
+        {
+          "name": "Papagenu (He's My Sassafrass)",
+          "duration": "144",
+          "id": "6ed1b8d9-76fc-48c2-b0f5-79f27a9819a0"
+        },
+        {
+          "name": "Dude (I Totally Miss You)",
+          "duration": "173",
+          "id": "c3852f97-f9cd-41d0-bfef-2b81676c7547"
+        },
+        {
+          "name": "Break In-City (Storm the Gate!)",
+          "duration": "82",
+          "id": "f25067e9-f242-4ea9-a548-5933e4767bcb"
+        },
+        {
+          "name": "Car Chase City",
+          "duration": "162",
+          "id": "e9b4a1c4-0f8a-437e-8fed-1f324f18a333"
+        },
+        {
+          "name": "Beelzeboss (The Final Showdown)",
+          "duration": "335",
+          "id": "e6ea3c46-964e-4a66-9f9b-824a6ac83dfd"
+        },
+        {
+          "name": "POD",
+          "duration": "152",
+          "id": "c7c3ce19-d310-431d-af8a-792fa3a3b621"
+        },
+        {
+          "name": "The Metal",
+          "duration": "165",
+          "id": "8e5de081-00ff-4d4f-91c3-602b18fda8c2"
+        }
+      ]
+    }
+  ],
+  [
+    "a67bd872-40e5-43b0-869c-c2377f992e17",
+    {
+      "name": "Waking Up",
+      "id": "a67bd872-40e5-43b0-869c-c2377f992e17",
+      "releasedDate": "1972-01-11T17:03:49.544Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/b243e3b226cf4b3089e166f30e2cb83c.png",
+      "band": {
+        "name": "OneRepublic",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "OneRepublic is an American, self-proclaimed \"genreless\", band formed in Colorado Springs in 2002 by Ryan Tedder and Zach Filkins. After a few years of moderate success, they have since drawn mainstream attention with the release of their single \"Apologize,\" which has sold in excess of 7 million singles worldwide.  The song, according to SoundScan Data, is one of only two songs that have reached 3 million legal downloads in history.  A remix of \"Apologize\" was featured on Timbaland's Shock Value and the band's debut album <a href=\"https://www.last.fm/music/OneRepublic\">Read more on Last.fm</a>",
+        "numPlays": 13350239,
+        "id": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+        "albums": ["a67bd872-40e5-43b0-869c-c2377f992e17"]
+      },
+      "tracks": [
+        {
+          "name": "Made for You",
+          "duration": "257",
+          "id": "a57b0de3-c04d-4feb-b98a-3abce581ee13"
+        },
+        {
+          "name": "All the Right Moves",
+          "duration": "238",
+          "id": "dc5ffc5f-c36a-4420-b9d8-fba9ce55867c"
+        },
+        {
+          "name": "Secrets",
+          "duration": "223",
+          "id": "862fadad-faf8-46b5-8a4f-da0d91147231"
+        },
+        {
+          "name": "Everybody Loves Me",
+          "duration": "214",
+          "id": "1572e511-efd4-4812-99eb-76564b85b125"
+        },
+        {
+          "name": "Missing Persons 1 & 2",
+          "duration": "299",
+          "id": "8717f08c-87ea-4cfe-be7e-9a4304968384"
+        },
+        {
+          "name": "Good Life",
+          "duration": "253",
+          "id": "edbf1f5c-de5c-4b76-b65f-6d357db6e6b0"
+        },
+        {
+          "name": "All This Time",
+          "duration": "242",
+          "id": "d88a665e-c7b5-4a71-b322-8565801d2e9b"
+        },
+        {
+          "name": "Fear",
+          "duration": "226",
+          "id": "35aecaea-9689-4d94-b755-5929944336e1"
+        },
+        {
+          "name": "Waking Up",
+          "duration": "369",
+          "id": "873f4662-b4d5-460f-83bb-d2c39527aab0"
+        },
+        {
+          "name": "Marchin On",
+          "duration": "253",
+          "id": "e4e8361c-b11e-4ead-89b0-b418abc37e91"
+        },
+        {
+          "name": "Lullaby",
+          "duration": "277",
+          "id": "a81bd54a-15e3-414b-bf79-cf97f9c2432d"
+        }
+      ]
+    }
+  ],
+  [
+    "e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4",
+    {
+      "name": "Life Starts Now",
+      "id": "e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4",
+      "releasedDate": "2017-08-08T12:35:47.432Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/c59bab1a342e46ba96013a3c26ca8302.png",
+      "band": {
+        "name": "Three Days Grace",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "alternative rock",
+        "biography": "Three Days Grace is a Canadian rock band, formed under the name Groundswell in Norwood, Ontario, Canada in 1992. After a breakup in 1995, the band reformed in 1997 under its current name and with a line-up consisting of guitarist and lead vocalist Adam Gontier, drummer and backing vocalist Neil Sanderson, and bassist Brad Walst. In 2003, Barry Stock was recruited as the band's lead guitarist. The band has released six studio albums, with a record fourteen #1 hits on Mainstream Rock. <a href=\"https://www.last.fm/music/Three+Days+Grace\">Read more on Last.fm</a>",
+        "numPlays": 8935203,
+        "id": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+        "albums": ["e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4"]
+      },
+      "tracks": [
+        {
+          "name": "Bitter Taste",
+          "duration": "240",
+          "id": "f9be0bb9-d3ee-4994-b972-97788169f8c8"
+        },
+        {
+          "name": "Break",
+          "duration": "192",
+          "id": "8a9379f6-630f-45ce-9c6d-3e7382fae336"
+        },
+        {
+          "name": "World So Cold",
+          "duration": "243",
+          "id": "9f38fdf7-2d55-4e1d-a39b-e57db1bd14b0"
+        },
+        {
+          "name": "Lost In You",
+          "duration": "233",
+          "id": "4647a1b2-be24-4368-ba90-a02b3f974270"
+        },
+        {
+          "name": "The Good Life",
+          "duration": "173",
+          "id": "e666cc20-de91-4fc4-8ad1-6381431a5624"
+        },
+        {
+          "name": "No More",
+          "duration": "225",
+          "id": "85b0886a-29e8-4295-bc38-34b3e6b6db99"
+        },
+        {
+          "name": "Last To Know",
+          "duration": "207",
+          "id": "249e57e2-373d-4840-90e8-cd744d138ee4"
+        },
+        {
+          "name": "Someone Who Cares",
+          "duration": "292",
+          "id": "c2238f65-37eb-4380-a6be-b3c691066ead"
+        },
+        {
+          "name": "Bully",
+          "duration": "219",
+          "id": "06e43440-5276-4b8c-aa8b-0cd751a5acad"
+        },
+        {
+          "name": "Without You",
+          "duration": "213",
+          "id": "2591d8cf-15e5-4517-85fd-f73d5798c95a"
+        },
+        {
+          "name": "Goin' Down",
+          "duration": "185",
+          "id": "8fb5547a-d8c8-48e1-ad04-48aba2a55a04"
+        },
+        {
+          "name": "Life Starts Now",
+          "duration": "188",
+          "id": "9e0da743-1199-4eef-9e64-4b35e6400b43"
+        }
+      ]
+    }
+  ],
+  [
+    "dca58b08-9e7b-4a1d-bd1a-3f8cfd39c65d",
+    {
+      "name": "Evanescence",
+      "id": "dca58b08-9e7b-4a1d-bd1a-3f8cfd39c65d",
+      "releasedDate": "1984-03-15T18:44:47.487Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/0b16ebd5852b4c7b8603923477372f32.png",
+      "band": {
+        "name": "Evanescence",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Evanescence is a Grammy-winning band founded in Little Rock, Arkansas, United States in 1995 by singer/pianist Amy Lee and guitarist Ben Moody (who left in 2003). \n\nAfter recording private albums, the band signed to Wind-up Records and released their first full-length album, Fallen, in 2003, which sold more than 15 million copies worldwide and helped the band win two Grammy Awards. A year later, they released their first live album, Anywhere But Home, which sold more than one million copies worldwide. <a href=\"https://www.last.fm/music/Evanescence\">Read more on Last.fm</a>",
+        "numPlays": 10434718,
+        "id": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+        "albums": ["dca58b08-9e7b-4a1d-bd1a-3f8cfd39c65d"]
+      },
+      "tracks": [
+        {
+          "name": "What You Want",
+          "duration": "221",
+          "id": "db87b080-eeb4-4421-90be-d32416dde830"
+        },
+        {
+          "name": "Made of Stone",
+          "duration": "214",
+          "id": "945a52c7-4092-4129-b7cc-0167980d8589"
+        },
+        {
+          "name": "The Change",
+          "duration": "222",
+          "id": "e98a6746-5218-4c6e-811b-5418249c8d2e"
+        },
+        {
+          "name": "My Heart Is Broken",
+          "duration": "269",
+          "id": "3a26fd80-9479-4668-b634-176b89a99aea"
+        },
+        {
+          "name": "The Other Side",
+          "duration": "245",
+          "id": "38edb284-140d-47e8-9761-0927b79ab26d"
+        },
+        {
+          "name": "Erase This",
+          "duration": "235",
+          "id": "8f17b0ca-fff7-46c6-b3e3-4d3986b40fdd"
+        },
+        {
+          "name": "Lost in Paradise",
+          "duration": "283",
+          "id": "a9f34ef1-77f2-416e-a9ea-5e240b1902ef"
+        },
+        {
+          "name": "Sick",
+          "duration": "210",
+          "id": "be21e07f-229a-4ca4-874e-2632a35f7aae"
+        },
+        {
+          "name": "End of the Dream",
+          "duration": "229",
+          "id": "8a441481-6c5a-493f-af1e-77589549dfe0"
+        },
+        {
+          "name": "Oceans",
+          "duration": "218",
+          "id": "c4f5db17-2a57-41a0-88d4-3d25543df900"
+        },
+        {
+          "name": "Never Go Back",
+          "duration": "267",
+          "id": "608ef480-e4b8-4ea2-a6a8-bdfc8ddfd076"
+        },
+        {
+          "name": "Swimming Home",
+          "duration": "224",
+          "id": "1c37a2f7-6c76-4e2d-808a-2680908d0c83"
+        }
+      ]
+    }
+  ],
+  [
+    "6237fb41-19a4-4674-89e0-aad53ded455a",
+    {
+      "name": "Light Me Up",
+      "id": "6237fb41-19a4-4674-89e0-aad53ded455a",
+      "releasedDate": "1995-08-18T07:02:12.322Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/d3c1b9a9bc3c43528d2e4dca2b886fb1.png",
+      "band": {
+        "name": "The Pretty Reckless",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "The Pretty Reckless is an American alternative rock band from New York, United States. The current members are Taylor Momsen (lead vocals, rhythm guitar), Ben Phillips (lead guitar, backing vocals), Mark Damon (bass) and Jamie Perkins (drums). The band formed in 2009 when Momsen stated that she would quit acting after her television role Jenny Humphrey from the hit TV show Gossip Girl (2007-2012) to focus on her music career.\n\nIn 2010, they released their debut studio album Light Me Up. <a href=\"https://www.last.fm/music/The+Pretty+Reckless\">Read more on Last.fm</a>",
+        "numPlays": 8459407,
+        "id": "54f8c12e-571c-4c5a-9f79-5336b39e84b0",
+        "albums": ["6237fb41-19a4-4674-89e0-aad53ded455a"]
+      },
+      "tracks": [
+        {
+          "name": "My Medicine",
+          "duration": "194",
+          "id": "031db242-cec3-485a-ad63-e4e4c0bd5ea9"
+        },
+        {
+          "name": "Since You're Gone",
+          "duration": "162",
+          "id": "b4d95425-5a5c-457d-b086-cfb12441171a"
+        },
+        {
+          "name": "Make Me Wanna Die - Streaming Version",
+          "duration": "235",
+          "id": "a2857754-f756-40d0-81fe-6237e1774e1d"
+        },
+        {
+          "name": "Light Me Up",
+          "duration": "208",
+          "id": "6a4c408e-f1b3-4df3-b3ab-93fd4a45717d"
+        },
+        {
+          "name": "Just Tonight",
+          "duration": "168",
+          "id": "63fb811d-f65f-484c-85c2-408893d53487"
+        },
+        {
+          "name": "Miss Nothing",
+          "duration": "194",
+          "id": "86e48fc3-3ba5-42d7-ac30-49fd315dd215"
+        },
+        {
+          "name": "Goin' Down",
+          "duration": "216",
+          "id": "17ae2b20-1e20-4f1f-b8e4-e874be1c047b"
+        },
+        {
+          "name": "Nothing Left to Lose",
+          "duration": "251",
+          "id": "b7c227ae-bc49-45ab-a082-775c055a791f"
+        },
+        {
+          "name": "Factory Girl",
+          "duration": "211",
+          "id": "9a00ed6f-d290-49ba-b3a3-b0296cddc9de"
+        },
+        {
+          "name": "You",
+          "duration": "213",
+          "id": "2091cc0e-5ffe-482f-866f-be294afedc15"
+        }
+      ]
+    }
+  ],
+  [
+    "b70fff68-559c-4efd-a035-5974cac6bd87",
+    {
+      "name": "Extreme Behavior",
+      "id": "b70fff68-559c-4efd-a035-5974cac6bd87",
+      "releasedDate": "1984-08-20T10:03:58.930Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/3a6aef550d44430baf839a5ae7903803.png",
+      "band": {
+        "name": "Hinder",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "1) Hinder is a hard rock group inspired by post-grunge music that was formed in Oklahoma City in July 2001 when guitarist Joe Garvey and drummer Cody Hanson discovered Austin Winkler singing for a cover band at a college dorm party. \"I heard him and was blown away,\" said Cody. \"He has the kind of charisma very few people have and that unique voice. You can't really compare him to anybody.\" Hinder's perhaps best known for their number one smash \"Lips Of An Angel\". <a href=\"https://www.last.fm/music/Hinder\">Read more on Last.fm</a>",
+        "numPlays": 4404678,
+        "id": "39b22a9e-59dd-412b-ac3c-0725c807c72b",
+        "albums": ["b70fff68-559c-4efd-a035-5974cac6bd87"]
+      },
+      "tracks": [
+        {
+          "name": "Get Stoned - Remastered Album Version",
+          "duration": "218",
+          "id": "1a8434ba-0e95-4c07-9c36-76d3da154978"
+        },
+        {
+          "name": "How Long",
+          "duration": "204",
+          "id": "fdb83fd3-3af0-4887-9902-5a90393a1ae4"
+        },
+        {
+          "name": "By The Way",
+          "duration": "215",
+          "id": "8de4d39c-ab16-4065-8013-85d811e44b90"
+        },
+        {
+          "name": "Nothin' Good About Goodbye",
+          "duration": "231",
+          "id": "8e4e0e41-e081-4203-aaeb-cee6b08de864"
+        },
+        {
+          "name": "Bliss (I Don't Wanna Know)",
+          "duration": "230",
+          "id": "144a49bb-0bf0-4ab8-83bd-5419b0d71182"
+        },
+        {
+          "name": "Better Than Me",
+          "duration": "223",
+          "id": "1cd34205-b1fe-4f38-9914-20119daa208e"
+        },
+        {
+          "name": "Room 21",
+          "duration": "222",
+          "id": "d0d30c7e-9232-4423-8141-d9a2654a26f6"
+        },
+        {
+          "name": "Lips Of An Angel",
+          "duration": "260",
+          "id": "8bc4bfa9-1401-4967-9e1f-d7b0e1db968c"
+        },
+        {
+          "name": "Homecoming Queen",
+          "duration": "278",
+          "id": "750fbd7b-c29a-41e0-a0da-0511f76415de"
+        },
+        {
+          "name": "Shoulda",
+          "duration": "196",
+          "id": "8806e154-4ae4-4495-8665-1f710deaca23"
+        }
+      ]
+    }
+  ],
+  [
+    "d2c4953c-08f2-49cb-9050-8f39b6f3803d",
+    {
+      "name": "Away from the Sun",
+      "id": "d2c4953c-08f2-49cb-9050-8f39b6f3803d",
+      "releasedDate": "1994-08-18T07:07:39.925Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/056ec23d90254b70b62aa84ce14876aa.png",
+      "band": {
+        "name": "3 Doors Down",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "3 Doors Down is a post-Grunge influenced Alternative rock group from Escatawpa, Mississippi, United States that formed in 1996. Consisting of Brad Arnold (vocals), Chet Roberts (guitar, a replacement for Matt Roberts), Todd Harrell (bass), Chris Henderson (guitar), and Greg Upchurch (drums), the band is known for several successful rock singles such as \"Here Without You\" and \"Kryptonite\". The group signed to Universal Records in 2000.\n\nUniversal then released their first album, 'The Better Life', and they garnered a big fan response. <a href=\"https://www.last.fm/music/3+Doors+Down\">Read more on Last.fm</a>",
+        "numPlays": 4471468,
+        "id": "2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+        "albums": [
+          "d2c4953c-08f2-49cb-9050-8f39b6f3803d",
+          "c457adc4-3640-4d00-9e4c-239aa6a63ea8"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "When I'm Gone",
+          "duration": "260",
+          "id": "716383f9-0827-4e52-8775-192856ba105c"
+        },
+        {
+          "name": "Away from the Sun",
+          "duration": "231",
+          "id": "5e09b633-7fb8-4546-b6ec-32e3313ef8ef"
+        },
+        {
+          "name": "The Road I'm On",
+          "duration": "239",
+          "id": "8032d7bb-d2df-4f29-ad25-19cde3bc5b9f"
+        },
+        {
+          "name": "Ticket to Heaven",
+          "duration": "207",
+          "id": "39bfe6aa-d7ac-4de1-9da1-ff9f23f22534"
+        },
+        {
+          "name": "Running Out of Days",
+          "duration": "211",
+          "id": "60f2ac2e-684b-4e63-a2dc-f8a51d9e1f67"
+        },
+        {
+          "name": "Here Without You",
+          "duration": "236",
+          "id": "33ed588e-0086-4ded-9853-321fe5c03b9c"
+        },
+        {
+          "name": "I Feel You",
+          "duration": "247",
+          "id": "05cc91da-3e0d-4b1e-bb6a-de2d0d0dbe6c"
+        },
+        {
+          "name": "Dangerous Game",
+          "duration": "216",
+          "id": "9dca5085-de37-4257-ac84-436e9d4ab07f"
+        },
+        {
+          "name": "Changes",
+          "duration": "236",
+          "id": "691b5e70-264b-4341-8fb5-8345ee227a7f"
+        },
+        {
+          "name": "Going Down in Flames",
+          "duration": "208",
+          "id": "39b01547-f7be-4075-a856-8e1707fbecdf"
+        },
+        {
+          "name": "Sarah Yellin'",
+          "duration": "197",
+          "id": "2790e9b2-0d9d-41a0-9418-2f19deffc52d"
+        },
+        {
+          "name": "This Time",
+          "duration": "318",
+          "id": "6832aa06-7e35-4c2e-90c8-630834c566df"
+        }
+      ]
+    }
+  ],
+  [
+    "35e83d8a-be83-307b-94cc-1a7686d48c74",
+    {
+      "name": "The Velvet Underground",
+      "id": "35e83d8a-be83-307b-94cc-1a7686d48c74",
+      "releasedDate": "1978-01-20T12:37:22.813Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/9508856b4a0c8f380809017af9f61974.png",
+      "band": {
+        "name": "The Velvet Underground",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "The Velvet Underground was a pioneering experimental rock band from New York City first active from 1965 to 1973. Its best-known lineup consisted of vocalist/guitarist Lou Reed, bassist/violist John Cale, guitarist Sterling Morrison and drummer Maureen Tucker. The band also collaborated with Nico for their debut album in 1967, under the supervision of producer and pop artist Andy Warhol.\n\nSome see The Velvet Underground as being a bridge between the <a href=\"https://www.last.fm/music/The+Velvet+Underground\">Read more on Last.fm</a>",
+        "numPlays": 15149919,
+        "id": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
+        "albums": ["35e83d8a-be83-307b-94cc-1a7686d48c74"]
+      },
+      "tracks": [
+        {
+          "name": "Candy Says",
+          "duration": "244",
+          "id": "42ff3378-bce5-4004-8083-e6a69698ee38"
+        },
+        {
+          "name": "What Goes On",
+          "duration": "292",
+          "id": "168dccfe-f03b-43fa-8159-5b11dce738d4"
+        },
+        {
+          "name": "Some Kinda Love",
+          "duration": "186",
+          "id": "7e4bf307-3b6f-4896-bb82-ab454b88df9e"
+        },
+        {
+          "name": "Pale Blue Eyes",
+          "duration": "346",
+          "id": "cf086cd1-2b88-4730-8c2d-3fa73f856f91"
+        },
+        {
+          "name": "Jesus",
+          "duration": "204",
+          "id": "e7d83f86-79f8-4c82-bc5c-6ee17be29c88"
+        },
+        {
+          "name": "Beginning To See The Light",
+          "duration": "326",
+          "id": "4ca63562-c0e7-48c1-9927-3f884bc5d96a"
+        },
+        {
+          "name": "I'm Set Free",
+          "duration": "241",
+          "id": "8be505a0-ad1f-40e2-9bb9-278fc678006d"
+        },
+        {
+          "name": "That's The Story Of My Life",
+          "duration": "125",
+          "id": "769efb84-a834-4530-adf8-70b0bad2eaa4"
+        },
+        {
+          "name": "The Murder Mystery",
+          "duration": "534",
+          "id": "90a01657-0188-431c-b3dc-8aeb2603f16e"
+        },
+        {
+          "name": "After Hours",
+          "duration": "125",
+          "id": "7c5e0b9e-2428-4342-9d54-be9cad9617d0"
+        }
+      ]
+    }
+  ],
+  [
+    "e5ef6cd9-d078-4435-b005-2f4ee6d44d61",
+    {
+      "name": "The Beatles",
+      "id": "e5ef6cd9-d078-4435-b005-2f4ee6d44d61",
+      "releasedDate": "2009-02-25T09:37:26.352Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/0e17c97cccf44f7a85bb6c1c4029c0c9.png",
+      "band": {
+        "name": "The Beatles",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "classic rock",
+        "biography": "The Beatles were an English rock band formed in Liverpool in 1960. With a line-up comprising John Lennon, Paul McCartney, George Harrison and Ringo Starr, they are regarded as the most influential band of all time. The group were integral to the development of 1960s counterculture and popular music's recognition as an art form. Rooted in skiffle, beat and 1950s rock and roll, their sound incorporated elements of classical music and traditional pop <a href=\"https://www.last.fm/music/The+Beatles\">Read more on Last.fm</a>",
+        "numPlays": 340473,
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "albums": [
+          "e5ef6cd9-d078-4435-b005-2f4ee6d44d61",
+          "d684b850-3ed1-3003-b64b-1a4ed1a1b029"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Back in the U.S.S.R.",
+          "duration": "165",
+          "id": "0e20901d-6cea-4e04-8938-ec2e5c7f5d8d"
+        },
+        {
+          "name": "Dear Prudence",
+          "duration": "240",
+          "id": "a5739703-fbe1-483f-8ee2-185e61b99be7"
+        },
+        {
+          "name": "Glass Onion",
+          "duration": "137",
+          "id": "2178690b-e16d-4eea-8123-dfc55b6bc17b"
+        },
+        {
+          "name": "Ob-La-Di, Ob-La-Da",
+          "duration": "190",
+          "id": "e0b18279-0b6d-4eb4-b905-3bc053c3c15c"
+        },
+        {
+          "name": "Wild Honey Pie",
+          "duration": "53",
+          "id": "8daec4e4-6b25-4cbe-a53c-ff353099b242"
+        },
+        {
+          "name": "The Continuing Story of Bungalow Bill",
+          "duration": "191",
+          "id": "bdc8c219-f269-431c-88c3-4cb15691b39d"
+        },
+        {
+          "name": "While My Guitar Gently Weeps",
+          "duration": "284",
+          "id": "f181af15-86c4-4c73-bec7-908531977260"
+        },
+        {
+          "name": "Happiness Is a Warm Gun",
+          "duration": "164",
+          "id": "36929e53-970c-41ad-9fe1-7c4664a8866d"
+        },
+        {
+          "name": "Martha My Dear",
+          "duration": "148",
+          "id": "e9c9c4c2-0ec3-43ba-81a4-87cd12474d28"
+        },
+        {
+          "name": "I'm So Tired",
+          "duration": "123",
+          "id": "05b59660-238d-4b1f-8dce-7a4664102a41"
+        },
+        {
+          "name": "Blackbird",
+          "duration": "138",
+          "id": "fc8340ef-cd9c-4a21-a97e-472f9e89ba18"
+        },
+        {
+          "name": "Piggies",
+          "duration": "124",
+          "id": "a82ae88b-00ae-4bd1-a8a5-1aff61e836f3"
+        },
+        {
+          "name": "Rocky Raccoon",
+          "duration": "213",
+          "id": "900a8015-869b-45d5-8d1a-047e6da73ee7"
+        },
+        {
+          "name": "Don't Pass Me By",
+          "duration": "232",
+          "id": "38626a62-44dc-4372-9eaf-e9096886d02e"
+        },
+        {
+          "name": "Why Don't We Do It in the Road?",
+          "duration": "102",
+          "id": "6383d132-314d-4862-a2e1-fddba20a0399"
+        },
+        {
+          "name": "I Will",
+          "duration": "106",
+          "id": "6a0ccb9a-9c20-4cf2-bbe6-9f56bfda6ce1"
+        },
+        {
+          "name": "Julia",
+          "duration": "177",
+          "id": "729d5aeb-319a-4851-93cc-2941fc6ea950"
+        },
+        {
+          "name": "Birthday",
+          "duration": "163",
+          "id": "5576ffeb-7e6c-4716-95c5-1e74e45a87c5"
+        },
+        {
+          "name": "Yer Blues",
+          "duration": "241",
+          "id": "3bf0779d-60ac-4b6f-889f-be55cce5a4b6"
+        },
+        {
+          "name": "Mother Nature's Son",
+          "duration": "166",
+          "id": "ee93bedf-afb3-4596-9c54-3b7acced17d3"
+        },
+        {
+          "name": "Everybody's Got Something to Hide Except Me and My Monkey",
+          "duration": "144",
+          "id": "31973c64-7c88-4322-b947-5c144a3b7637"
+        },
+        {
+          "name": "Sexy Sadie",
+          "duration": "195",
+          "id": "0d19fed8-c479-4238-afed-45cfaa6e021d"
+        },
+        {
+          "name": "Helter Skelter",
+          "duration": "270",
+          "id": "ea484491-8b3c-4ba5-ad74-5f1ebdce413b"
+        },
+        {
+          "name": "Long, Long, Long",
+          "duration": "182",
+          "id": "26910c94-2b71-4aea-8825-857ef20a1601"
+        },
+        {
+          "name": "Revolution",
+          "duration": "201",
+          "id": "2636f613-fdc8-4a91-8ac5-1275bd2577cf"
+        },
+        {
+          "name": "Honey Pie",
+          "duration": "79",
+          "id": "22577663-a1cf-4983-9fbe-076513fc6593"
+        },
+        {
+          "name": "Savoy Truffle",
+          "duration": "175",
+          "id": "d8765378-d248-4e41-a1ed-86aaac162bae"
+        },
+        {
+          "name": "Cry Baby Cry",
+          "duration": "180",
+          "id": "8041684f-785e-4d66-9354-c943eafc608c"
+        },
+        {
+          "name": "Revolution 9",
+          "duration": "495",
+          "id": "0fd506e6-17f1-4d0e-b9d6-41cd73685081"
+        },
+        {
+          "name": "Good Night",
+          "duration": "194",
+          "id": "13e1c02c-65db-4a06-a52c-2ad781c6acb7"
+        }
+      ]
+    }
+  ],
+  [
+    "9599042a-34a9-39f2-a52d-c903a382515c",
+    {
+      "name": "All The Right Reasons",
+      "id": "9599042a-34a9-39f2-a52d-c903a382515c",
+      "releasedDate": "2013-10-03T07:06:34.211Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/81399f26ebd3e4f4e41ff903b45eb637.png",
+      "band": {
+        "name": "Nickelback",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Nickelback is a rock band which formed in Hanna, Alberta, Canada in 1995. Nickelback is one of the most commercially successful Canadian groups, having sold 30 million records worldwide. Nickelback ranks as the 11th best selling music act of the 2000s, and places as the 2nd best selling foreign act in the US behind The Beatles for the 2000s.\n\nThe band consists of Chad Kroeger (vocals, guitar), Ryan Peake (guitar, vocals), Mike Kroeger (bass) and Daniel Adair (drums). <a href=\"https://www.last.fm/music/Nickelback\">Read more on Last.fm</a>",
+        "numPlays": 17605491,
+        "id": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "albums": [
+          "3c5794a0-d913-390d-ab24-6762af38c112",
+          "9599042a-34a9-39f2-a52d-c903a382515c",
+          "b3fad414-9b92-4d04-b703-9605d5d33bac"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Follow You Home",
+          "duration": "260",
+          "id": "7491c61e-6b37-44d9-9ada-b77bbd873318"
+        },
+        {
+          "name": "Fight For All The Wrong Reasons",
+          "duration": "224",
+          "id": "33c0dce3-8f02-4a00-b9bc-5487c5af98b5"
+        },
+        {
+          "name": "Photograph",
+          "duration": "259",
+          "id": "4ad5a018-2328-4702-ad01-da4e88ba5a4f"
+        },
+        {
+          "name": "Animals",
+          "duration": "187",
+          "id": "73c0a307-7b98-4129-b4d7-c89716299a6c"
+        },
+        {
+          "name": "Savin' Me",
+          "duration": "219",
+          "id": "a9c2c46e-f775-45f5-8774-06e7122f7816"
+        },
+        {
+          "name": "Far Away",
+          "duration": "234",
+          "id": "9a9ef7ff-e219-4332-bacb-49f1e8ca249d"
+        },
+        {
+          "name": "Next Contestant",
+          "duration": "215",
+          "id": "00239daa-7b5c-4ab0-86af-cc73450e77be"
+        },
+        {
+          "name": "Side Of A Bullet",
+          "duration": "181",
+          "id": "f66c39b9-e803-4bfd-975e-bfb742784c50"
+        },
+        {
+          "name": "If Everyone Cared",
+          "duration": "218",
+          "id": "85d75ece-ea2b-4e2f-a9e6-62aa21a481c7"
+        },
+        {
+          "name": "Someone That You're With",
+          "duration": "242",
+          "id": "750f2c91-eb5c-436c-9918-a2033687a9b1"
+        },
+        {
+          "name": "Rockstar",
+          "duration": "255",
+          "id": "57db66a2-2c66-411d-9404-4836f0817563"
+        }
+      ]
+    }
+  ],
+  [
+    "54e73133-8168-4400-a1fd-91f2017e701a",
+    {
+      "name": "Greatest Hits",
+      "id": "54e73133-8168-4400-a1fd-91f2017e701a",
+      "releasedDate": "1978-11-29T02:49:04.876Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/05600d9c77a9288add89fac53d3482e7.png",
+      "band": {
+        "name": "Tom Petty and The Heartbreakers",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "classic rock",
+        "biography": "Tom Petty and the Heartbreakers was a rock band formed in 1976 from Gainesville, Florida, USA and led by Tom Petty.\n\nPetty was supported by his band, The Heartbreakers, for the majority of his career. He has occasionally released solo work, as was the case with his 2006 album Highway Companion on which he performed most of the backing instrumentation himself. However, members of The Heartbreakers have played on each of his solo albums and the band has always backed him when touring in support of those albums. <a href=\"https://www.last.fm/music/Tom+Petty+and+The+Heartbreakers\">Read more on Last.fm</a>",
+        "numPlays": 8217900,
+        "id": "f93dbc64-6f08-4033-bcc7-8a0bb4689849",
+        "albums": ["54e73133-8168-4400-a1fd-91f2017e701a"]
+      },
+      "tracks": [
+        {
+          "name": "American Girl",
+          "duration": "210",
+          "id": "9dd09e3c-9634-4f22-acdd-c1b5752b033c"
+        },
+        {
+          "name": "Breakdown",
+          "duration": "162",
+          "id": "2d8f28c1-e864-458b-b632-4739dab4d03d"
+        },
+        {
+          "name": "Listen To Her Heart",
+          "duration": "181",
+          "id": "cc0f69d9-a26c-433a-a537-d1c78c2b86ee"
+        },
+        {
+          "name": "I Need To Know",
+          "duration": "143",
+          "id": "c8891716-bd91-4778-95f9-b4fd295dc050"
+        },
+        {
+          "name": "Refugee",
+          "duration": "201",
+          "id": "acaffb25-807c-438b-8dc5-f21acd3729c1"
+        },
+        {
+          "name": "Don't Do Me Like That",
+          "duration": "160",
+          "id": "a088a820-66b3-4473-8e11-79216c68b9dd"
+        },
+        {
+          "name": "Even the Losers",
+          "duration": "215",
+          "id": "b2d32066-b384-4899-b3d9-0de36d905741"
+        },
+        {
+          "name": "Here Comes My Girl",
+          "duration": "273",
+          "id": "cf627161-b887-4c0b-bdb2-9a5d40730eef"
+        },
+        {
+          "name": "The Waiting",
+          "duration": "234",
+          "id": "7a7a1feb-5d64-48f3-829c-5fb93fc9fb06"
+        },
+        {
+          "name": "You Got Lucky",
+          "duration": "217",
+          "id": "dd35a76c-cbe5-442e-bf4a-2e9a59c8f21a"
+        },
+        {
+          "name": "Don't Come Around Here No More",
+          "duration": "306",
+          "id": "79bf2b8e-0263-4527-97dd-3b248b252ab5"
+        },
+        {
+          "name": "I Won't Back Down",
+          "duration": "176",
+          "id": "c162bdc9-a274-458c-9e01-a2e8ea2ea902"
+        },
+        {
+          "name": "Runnin' Down A Dream",
+          "duration": "263",
+          "id": "27190ccb-67b0-48b1-af6a-5afad03249cf"
+        },
+        {
+          "name": "Free Fallin'",
+          "duration": "254",
+          "id": "f99c98dc-96ed-4086-901c-8233b377460a"
+        },
+        {
+          "name": "Learning to Fly",
+          "duration": "237",
+          "id": "0f2972aa-aebe-4b5f-a642-a4d850dbcfab"
+        },
+        {
+          "name": "Into the Great Wide Open",
+          "duration": "218",
+          "id": "6613ccb5-50d7-41dd-b86b-537ac095693b"
+        },
+        {
+          "name": "Mary Jane's Last Dance",
+          "duration": "272",
+          "id": "f2b50f00-e8e5-4168-b013-c1743a3761ea"
+        },
+        {
+          "name": "Something In The Air",
+          "duration": "195",
+          "id": "e04882f4-b062-4550-abca-48478f485d4e"
+        }
+      ]
+    }
+  ],
+  [
+    "650ed589-c6c2-3bdf-a132-e781020bcbff",
+    {
+      "name": "No Line on the Horizon",
+      "id": "650ed589-c6c2-3bdf-a132-e781020bcbff",
+      "releasedDate": "2007-10-02T08:34:31.251Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/c31fe6d1db374738c7bbe01049902fae.png",
+      "band": {
+        "name": "U2",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "U2 are an Irish  alternative rock band from Dublin formed in 1976. The group consists of Bono (lead vocals and rhythm guitar), the Edge (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion). Initially rooted in post-punk, U2's musical style evolved throughout their career, yet has maintained an anthemic sound built on Bono's expressive vocals and the Edge's effects-based guitar textures. <a href=\"https://www.last.fm/music/U2\">Read more on Last.fm</a>",
+        "numPlays": 8168159,
+        "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+        "albums": [
+          "d287c703-5c25-3181-85d4-4d8c1a7d8ecd",
+          "650ed589-c6c2-3bdf-a132-e781020bcbff",
+          "b8271363-265a-43b9-b9ac-488fd3a4811a"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "No Line on the Horizon",
+          "duration": "252",
+          "id": "662d7086-c7b2-4ecc-8666-b43cdb99c10e"
+        },
+        {
+          "name": "Magnificent",
+          "duration": "322",
+          "id": "6d02fdc8-26a9-40a1-87b6-6a9b9db3221f"
+        },
+        {
+          "name": "Moment of Surrender",
+          "duration": "444",
+          "id": "a98fd18f-2a1a-4803-b063-b6789de23630"
+        },
+        {
+          "name": "Unknown Caller",
+          "duration": "363",
+          "id": "4311c5d5-8232-49c9-848a-3e83fec7b7a7"
+        },
+        {
+          "name": "I'll Go Crazy If I Don't Go Crazy Tonight",
+          "duration": "254",
+          "id": "0f3f854d-8bdc-45d9-ac65-4d2657cdaf4e"
+        },
+        {
+          "name": "Get on Your Boots",
+          "duration": "205",
+          "id": "2b5eb65b-bb5f-4699-aead-c1871a2a0356"
+        },
+        {
+          "name": "Stand Up Comedy",
+          "duration": "230",
+          "id": "0e6fbc43-1f82-4d3a-b210-28262e78fd77"
+        },
+        {
+          "name": "FEZ-Being Born",
+          "duration": "317",
+          "id": "52895bca-7039-4dcf-9fbc-a6f2434f7047"
+        },
+        {
+          "name": "White as Snow",
+          "duration": "281",
+          "id": "741c8016-9f54-4f3f-886c-0bde581a0b3a"
+        },
+        {
+          "name": "Breathe",
+          "duration": "300",
+          "id": "ac197d2d-3439-4c72-aa5d-d792c90fdb2c"
+        },
+        {
+          "name": "Cedars of Lebanon",
+          "duration": "253",
+          "id": "95e5a691-b959-44af-a2fb-31782df4e621"
+        }
+      ]
+    }
+  ],
+  [
+    "ac77030d-950d-460f-ae13-c0ab1c6f8eff",
+    {
+      "name": "Get Born",
+      "id": "ac77030d-950d-460f-ae13-c0ab1c6f8eff",
+      "releasedDate": "1991-11-12T09:30:18.462Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/22765d073954a2e392c5faafb3fddb45.png",
+      "band": {
+        "name": "Jet",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "1. Jet was an alternative rock band which formed in 2001 in Melbourne, Australia. The band consists of Nic Cester (vocals, guitar), Cameron Muncey (guitar, vocals), Mark Wilson (bass) and Chris Cester (drums). They released three albums: \"Get Born\" (2003), \"Shine On\" (2006) and \"Shaka Rock\" (2009). The band has had international hits with the singles \"Are You Gonna Be My Girl\", \"Look What You've Done\", \"Put Your Money Where Your Mouth Is\" and \"She's A Genius\". The band split in March 2012. <a href=\"https://www.last.fm/music/Jet\">Read more on Last.fm</a>",
+        "numPlays": 1054295,
+        "id": "4efa55ba-93cf-497f-baf3-2ca9da7e193e",
+        "albums": ["ac77030d-950d-460f-ae13-c0ab1c6f8eff"]
+      },
+      "tracks": [
+        {
+          "name": "Last Chance",
+          "duration": "112",
+          "id": "a3a122dc-a316-4cb4-9284-31d52fba1d88"
+        },
+        {
+          "name": "Are You Gonna Be My Girl",
+          "duration": "214",
+          "id": "4749748a-6e0b-48cc-aed8-2abdba16a3b4"
+        },
+        {
+          "name": "Rollover DJ",
+          "duration": "196",
+          "id": "2beaee0f-7686-4e47-b462-f1a38bbc41c1"
+        },
+        {
+          "name": "Look What You've Done",
+          "duration": "232",
+          "id": "e4b37672-e74f-4336-af0b-24d6ca1d1fc7"
+        },
+        {
+          "name": "Get What You Need",
+          "duration": "247",
+          "id": "4fe1b4c8-51e3-4e96-bbf2-b571c935ff5c"
+        },
+        {
+          "name": "Move On",
+          "duration": "260",
+          "id": "15f1267e-10d1-4248-b473-182551f9c498"
+        },
+        {
+          "name": "Radio Song",
+          "duration": "272",
+          "id": "ac6e2a2b-17da-4e39-b5e0-ea5412c0b61b"
+        },
+        {
+          "name": "Get Me Outta Here",
+          "duration": "176",
+          "id": "80eb32c2-1edb-4232-b70b-b33d062cc536"
+        },
+        {
+          "name": "Cold Hard Bitch",
+          "duration": "243",
+          "id": "c3f19491-8647-4c1e-a6f4-e3c6b4e2a6a9"
+        },
+        {
+          "name": "Come Around Again",
+          "duration": "270",
+          "id": "7c5d2e1f-f25d-401d-ba19-4d81b4ad5da9"
+        },
+        {
+          "name": "Take It Or Leave It",
+          "duration": "142",
+          "id": "6aaa6830-615a-4613-9aae-5bec74014a84"
+        },
+        {
+          "name": "Lazy Gun",
+          "duration": "282",
+          "id": "e6893429-826f-4fd5-8803-cd6056840166"
+        },
+        {
+          "name": "Timothy",
+          "duration": "270",
+          "id": "58e94e3a-3dc4-430c-be93-7ba62b260431"
+        }
+      ]
+    }
+  ],
+  [
+    "d684b850-3ed1-3003-b64b-1a4ed1a1b029",
+    {
+      "name": "Yellow Submarine",
+      "id": "d684b850-3ed1-3003-b64b-1a4ed1a1b029",
+      "releasedDate": "1998-11-26T23:49:47.746Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/fe61c64822bb4488adae3b6162aa595d.png",
+      "band": {
+        "name": "The Beatles",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "classic rock",
+        "biography": "The Beatles were an English rock band formed in Liverpool in 1960. With a line-up comprising John Lennon, Paul McCartney, George Harrison and Ringo Starr, they are regarded as the most influential band of all time. The group were integral to the development of 1960s counterculture and popular music's recognition as an art form. Rooted in skiffle, beat and 1950s rock and roll, their sound incorporated elements of classical music and traditional pop <a href=\"https://www.last.fm/music/The+Beatles\">Read more on Last.fm</a>",
+        "numPlays": 340473,
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "albums": [
+          "e5ef6cd9-d078-4435-b005-2f4ee6d44d61",
+          "d684b850-3ed1-3003-b64b-1a4ed1a1b029"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Yellow Submarine",
+          "duration": "157",
+          "id": "29eddcb3-29ff-4f3a-a17f-b2144dd00210"
+        },
+        {
+          "name": "Only a Northern Song",
+          "duration": "203",
+          "id": "68b88288-827b-4f3d-85c2-e741442a3622"
+        },
+        {
+          "name": "All Together Now",
+          "duration": "130",
+          "id": "2de2ec61-c53d-42bc-8dc5-ca90e88ae023"
+        },
+        {
+          "name": "Hey Bulldog",
+          "duration": "189",
+          "id": "a638a13b-4c43-47cc-aeac-703aa86c5dff"
+        },
+        {
+          "name": "It's All Too Much",
+          "duration": "387",
+          "id": "032f772f-c45f-4923-9f99-d919d8b019af"
+        },
+        {
+          "name": "All You Need Is Love",
+          "duration": "237",
+          "id": "e8bb75e9-77d7-4cf8-bfc9-a4482f81994d"
+        },
+        {
+          "name": "Pepperland",
+          "duration": "144",
+          "id": "e985dedc-3437-4c9d-b068-422d2fae2f0f"
+        },
+        {
+          "name": "Sea of Time",
+          "duration": "180",
+          "id": "2d51dda3-d631-472c-b480-c1bcc53915da"
+        },
+        {
+          "name": "Sea of Holes",
+          "duration": "141",
+          "id": "49a26e67-dadf-4a8a-a8b7-d673f8b9729e"
+        },
+        {
+          "name": "Sea of Monsters",
+          "duration": "220",
+          "id": "2f8042f7-845e-437a-8a3a-8fa83727bf4f"
+        },
+        {
+          "name": "March of the Meanies",
+          "duration": "142",
+          "id": "91448af6-03c6-420c-bae2-7e19ce392ebc"
+        },
+        {
+          "name": "Pepperland Laid Waste",
+          "duration": "135",
+          "id": "79302fc9-7615-45ff-a3ab-a0c056c89706"
+        },
+        {
+          "name": "Yellow Submarine In Pepperland",
+          "duration": "131",
+          "id": "4a944c14-ac0e-4c7b-9265-a028a23dcaf7"
+        }
+      ]
+    }
+  ],
+  [
+    "5e78b3da-31a3-4d3c-b739-9e77c4d7e1f5",
+    {
+      "name": "Cross Road",
+      "id": "5e78b3da-31a3-4d3c-b739-9e77c4d7e1f5",
+      "releasedDate": "1975-05-15T04:41:55.086Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e3ce1f7d8947ccd02ab864181bdc7886.png",
+      "band": {
+        "name": "Bon Jovi",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Bon Jovi is a hard rock band from Sayreville, New Jersey. Fronted by lead singer and namesake Jon Bon Jovi (born John Francis Bongiovi, Jr.), the group originally achieved large-scale success in the 80s. Over the past 25 years, the band has sold over 120 million albums worldwide, 34 million of those sales being in the U.S. alone, making them one of the most successful modern groups of all time. They continue to have widely popular tours.\n\nBon Jovi formed in 1983. <a href=\"https://www.last.fm/music/Bon+Jovi\">Read more on Last.fm</a>",
+        "numPlays": 17702822,
+        "id": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+        "albums": ["5e78b3da-31a3-4d3c-b739-9e77c4d7e1f5"]
+      },
+      "tracks": [
+        {
+          "name": "Livin' on a Prayer",
+          "duration": "250",
+          "id": "4063189d-07e4-4b60-90f5-3c997a0fb2ca"
+        },
+        {
+          "name": "Keep the Faith",
+          "duration": "345",
+          "id": "6514fa7d-23c1-43e6-affe-c6bd43e1ab09"
+        },
+        {
+          "name": "Someday I'll Be Saturday Night",
+          "duration": "278",
+          "id": "ddac6e48-bdee-4e6d-8083-2dfc7ed16f7d"
+        },
+        {
+          "name": "Always",
+          "duration": "352",
+          "id": "5194c248-1476-43e5-ac47-d5469ea5dafd"
+        },
+        {
+          "name": "Wanted Dead or Alive",
+          "duration": "309",
+          "id": "adb446c1-6168-4a44-b730-d76a07c38ed2"
+        },
+        {
+          "name": "Lay Your Hands on Me",
+          "duration": "358",
+          "id": "34027509-e1c0-4628-b7eb-5628ee5e42ad"
+        },
+        {
+          "name": "You Give Love a Bad Name",
+          "duration": "222",
+          "id": "0dec93fc-6270-4107-af50-e504cbdc07a7"
+        },
+        {
+          "name": "Bed Of Roses",
+          "duration": "394",
+          "id": "42511091-122b-438d-8ba4-428ccf3e2380"
+        },
+        {
+          "name": "Blaze Of Glory",
+          "duration": "344",
+          "id": "dbadfba0-76bb-4ee5-88ff-4b9d25754818"
+        },
+        {
+          "name": "In These Arms",
+          "duration": "319",
+          "id": "46705782-bb54-430a-933c-a5441565a8c9"
+        },
+        {
+          "name": "Bad Medicine",
+          "duration": "314",
+          "id": "b9687b8e-0399-421d-8f46-d68be7ed9765"
+        },
+        {
+          "name": "I'll Be There For You",
+          "duration": "346",
+          "id": "6934e689-c64b-4b52-825b-750b3f73b86d"
+        },
+        {
+          "name": "In And Out Of Love",
+          "duration": "265",
+          "id": "4812d246-0585-468d-87e7-75c6e3034976"
+        },
+        {
+          "name": "Runaway",
+          "duration": "234",
+          "id": "b437ecd4-a659-4b1b-9245-5543a5ab8acb"
+        },
+        {
+          "name": "Never Say Goodbye",
+          "duration": "289",
+          "id": "9e3de0c4-320b-49b6-80f2-c762935a0943"
+        }
+      ]
+    }
+  ],
+  [
+    "a9fc0299-51e4-4278-adb4-6774d4e72ff1",
+    {
+      "name": "Throwing Copper",
+      "id": "a9fc0299-51e4-4278-adb4-6774d4e72ff1",
+      "releasedDate": "1986-07-03T16:43:38.530Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/1621e4f1b3da45a6a289ae97ce982e20.png",
+      "band": {
+        "name": "Live",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "\nAt least two artists exist named 'Live':\n1. An American alternative rock band.\n2. A progressive rock group from Germany\n\n1. Live is an American alternative rock band that gained fame for their hit singles during the 90s, being perhaps best known for the international top 40 smashes \"I Alone\" and \"Lightning Crashes\". Characterized by an earnest approach to melodic songwriting and a spiritual zen lyrically, somewhat reminiscent of 'Joshua Tree'-era U2 and other arena-made artists <a href=\"https://www.last.fm/music/Live\">Read more on Last.fm</a>",
+        "numPlays": 17922382,
+        "id": "cba77ba2-862d-4cee-a8f6-d3f9daf7211c",
+        "albums": ["a9fc0299-51e4-4278-adb4-6774d4e72ff1"]
+      },
+      "tracks": [
+        {
+          "name": "The Dam At Otter Creek",
+          "duration": "283",
+          "id": "b6c67515-548c-4b48-983a-ca6d1a5d616b"
+        },
+        {
+          "name": "Selling The Drama",
+          "duration": "206",
+          "id": "abf764fb-b5cb-4933-8d11-66ac2ddc7bf9"
+        },
+        {
+          "name": "I Alone",
+          "duration": "231",
+          "id": "d6c0cebf-3e7b-4ee5-a93d-a9e48eac2f41"
+        },
+        {
+          "name": "Iris",
+          "duration": "239",
+          "id": "f12ea723-dd8f-4ae8-a0c5-7ef48bccbae5"
+        },
+        {
+          "name": "Lightning Crashes",
+          "duration": "325",
+          "id": "240f3fcf-5eba-43dc-a974-95d5afc6f306"
+        },
+        {
+          "name": "Top",
+          "duration": "162",
+          "id": "756711d7-df54-430a-9385-991b8e56cd13"
+        },
+        {
+          "name": "All Over You",
+          "duration": "239",
+          "id": "642c90bc-9dbf-47b0-959d-7d5e64973794"
+        },
+        {
+          "name": "Shit Towne",
+          "duration": "228",
+          "id": "1beafee4-6d96-4ac2-a04a-b1778187be2d"
+        },
+        {
+          "name": "T.B.D.",
+          "duration": "268",
+          "id": "5fc377be-f8d8-4259-acdb-7b40c0a6c5c0"
+        },
+        {
+          "name": "Stage",
+          "duration": "188",
+          "id": "a002ca86-9a36-4078-bd3c-64d91f14faab"
+        },
+        {
+          "name": "Waitress",
+          "duration": "168",
+          "id": "beedcb6d-4d82-4618-9f35-1b50929bb5f4"
+        },
+        {
+          "name": "Pillar Of Davidson",
+          "duration": "406",
+          "id": "b7d78a5d-96d9-4c0a-abc9-0dd726726a2e"
+        },
+        {
+          "name": "White, Discussion",
+          "duration": "368",
+          "id": "620c4d45-2dbd-4f96-8a0b-38792114152f"
+        },
+        {
+          "name": "Horse",
+          "duration": "257",
+          "id": "4c095d61-1f5d-4ee4-b8e1-13d385d59841"
+        }
+      ]
+    }
+  ],
+  [
+    "ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a",
+    {
+      "name": "Greatest Hits",
+      "id": "ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a",
+      "releasedDate": "1978-12-10T03:12:51.012Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/eaf46fd74b4945d485c4026c7f2011cf.png",
+      "band": {
+        "name": "Bruce Springsteen",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Bruce Frederick Joseph Springsteen (born September 23, 1949), nicknamed \"The Boss,\" is an American singer-songwriter and leader of the E Street Band. He is recognized for his poetic lyrics, his Jersey Shore roots, his distinctive voice, and his lengthy, energetic stage performances.\n\nSpringsteen has recorded both rock albums and more somber folk-oriented works. His most successful studio albums, Born to Run (1975) and Born in the U.S.A. (1984), find pleasures in the struggles of daily American life. <a href=\"https://www.last.fm/music/Bruce+Springsteen\">Read more on Last.fm</a>",
+        "numPlays": 11660792,
+        "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
+        "albums": [
+          "ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a",
+          "88263b6a-1785-48a7-9397-851edcaed134",
+          "d226c8cc-f58c-3b1f-997b-8243180870df"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Born to Run",
+          "duration": "270",
+          "id": "156ec79e-a6c8-41bf-9293-d57eee6189fc"
+        },
+        {
+          "name": "Thunder Road",
+          "duration": "290",
+          "id": "1ee9059e-29f2-49af-b335-59336ea24970"
+        },
+        {
+          "name": "Badlands",
+          "duration": "241",
+          "id": "13d4864b-42d5-4c27-853e-238ea29a8095"
+        },
+        {
+          "name": "The River",
+          "duration": "299",
+          "id": "62dc6457-31e3-4122-9b00-1084e1002a0c"
+        },
+        {
+          "name": "Hungry Heart",
+          "duration": "199",
+          "id": "83a7c787-48bb-49a6-8e12-0b00d66adbbc"
+        },
+        {
+          "name": "Atlantic City",
+          "duration": "234",
+          "id": "d8a9da88-b4ba-48c8-934a-c79c792d5f9d"
+        },
+        {
+          "name": "Dancing in the Dark",
+          "duration": "241",
+          "id": "15c17768-6d6a-416c-abbe-f749f163f77b"
+        },
+        {
+          "name": "Born in the U.S.A.",
+          "duration": "279",
+          "id": "9414521a-f6c7-43ff-bd90-e54144242f7c"
+        },
+        {
+          "name": "My Hometown",
+          "duration": "273",
+          "id": "674c85a1-7b5d-4443-85ac-6d63eb8e373e"
+        },
+        {
+          "name": "Glory Days",
+          "duration": "255",
+          "id": "10fb1133-51fc-4532-95a5-cb058357d358"
+        },
+        {
+          "name": "Brilliant Disguise",
+          "duration": "255",
+          "id": "dfc9254e-78e6-416b-8103-210a7398bbdb"
+        },
+        {
+          "name": "Human Touch",
+          "duration": "310",
+          "id": "24d2a80e-62da-48f9-b4a1-970b8f22129a"
+        },
+        {
+          "name": "Better Days",
+          "duration": "248",
+          "id": "71ae562d-54fe-413f-9029-9f85fc50b827"
+        },
+        {
+          "name": "Streets of Philadelphia",
+          "duration": "196",
+          "id": "03679b81-da34-4ea4-b19a-f11fa9d9f7f9"
+        },
+        {
+          "name": "Secret Garden",
+          "duration": "267",
+          "id": "2522bb63-bf20-4725-85dc-2ef5c7e8ae08"
+        },
+        {
+          "name": "Murder Incorporated",
+          "duration": "237",
+          "id": "5d2f9a41-f0f7-4018-b137-0704813e298e"
+        },
+        {
+          "name": "Blood Brothers",
+          "duration": "274",
+          "id": "8ef69c0a-6490-42e1-a7df-8b76e51708ea"
+        },
+        {
+          "name": "This Hard Land",
+          "duration": "291",
+          "id": "1da6484f-969c-4760-bc30-8165cfaad2bd"
+        }
+      ]
+    }
+  ],
+  [
+    "88263b6a-1785-48a7-9397-851edcaed134",
+    {
+      "name": "Born in the U.S.A.",
+      "id": "88263b6a-1785-48a7-9397-851edcaed134",
+      "releasedDate": "2008-07-04T08:48:07.523Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png",
+      "band": {
+        "name": "Bruce Springsteen",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Bruce Frederick Joseph Springsteen (born September 23, 1949), nicknamed \"The Boss,\" is an American singer-songwriter and leader of the E Street Band. He is recognized for his poetic lyrics, his Jersey Shore roots, his distinctive voice, and his lengthy, energetic stage performances.\n\nSpringsteen has recorded both rock albums and more somber folk-oriented works. His most successful studio albums, Born to Run (1975) and Born in the U.S.A. (1984), find pleasures in the struggles of daily American life. <a href=\"https://www.last.fm/music/Bruce+Springsteen\">Read more on Last.fm</a>",
+        "numPlays": 11660792,
+        "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
+        "albums": [
+          "ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a",
+          "88263b6a-1785-48a7-9397-851edcaed134",
+          "d226c8cc-f58c-3b1f-997b-8243180870df"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Born in the U.S.A.",
+          "duration": "279",
+          "id": "909fb074-e266-40c1-988e-e85d24a44a2e"
+        },
+        {
+          "name": "Cover Me",
+          "duration": "206",
+          "id": "946a95e7-a678-449f-a743-31ba502fdd8a"
+        },
+        {
+          "name": "Darlington County",
+          "duration": "288",
+          "id": "4ca27137-5200-4702-bafe-4415bb1b7e09"
+        },
+        {
+          "name": "Working on the Highway",
+          "duration": "191",
+          "id": "455992ca-de6f-45f8-aa23-60256177fc47"
+        },
+        {
+          "name": "Downbound Train",
+          "duration": "215",
+          "id": "220781fa-dd4c-49d0-a6bb-d6b5e558859d"
+        },
+        {
+          "name": "I'm on Fire",
+          "duration": "156",
+          "id": "6517b18a-0c29-425b-9674-a149856d9682"
+        },
+        {
+          "name": "No Surrender",
+          "duration": "240",
+          "id": "3cae430c-640d-4fb5-992c-2dc4d5e2e558"
+        },
+        {
+          "name": "Bobby Jean",
+          "duration": "226",
+          "id": "fc658d59-a497-46d4-917c-cdc75a314abd"
+        },
+        {
+          "name": "I'm Goin' Down",
+          "duration": "209",
+          "id": "dac80240-97c3-43d4-bc5e-6637ee3c4283"
+        },
+        {
+          "name": "Glory Days",
+          "duration": "255",
+          "id": "0c438db7-ceca-42ca-915f-8b3442b82b32"
+        },
+        {
+          "name": "Dancing in the Dark",
+          "duration": "241",
+          "id": "d3ef02fd-3e4f-48be-9948-92161df26c93"
+        },
+        {
+          "name": "My Hometown",
+          "duration": "273",
+          "id": "d94a8629-10a9-4f75-a937-5a0e7d940175"
+        }
+      ]
+    }
+  ],
+  [
+    "50490a11-f739-4616-8756-7a138a32059e",
+    {
+      "name": "The Reason",
+      "id": "50490a11-f739-4616-8756-7a138a32059e",
+      "releasedDate": "2000-04-15T04:57:28.175Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/942de35c7afb43b8c31a70a38f7b16f6.png",
+      "band": {
+        "name": "Hoobastank",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Hoobastank (sometimes stylized as \"h∞bastank\") is an American (formed in 1994 in Agoura Hills, California) rock band best known for their crossover hit \"The Reason\" (2003) and by their continued success in the modern rock market.\n\nVocalist Doug Robb met with guitarist Dan Estrin in a high school battle of the bands competition and decided to form a band. They recruited Markku Lappalainen and Chris Hesse to form Hoobastank. In an interview with Yahoo's Launch, Doug Robb said the name had no particular meaning. <a href=\"https://www.last.fm/music/Hoobastank\">Read more on Last.fm</a>",
+        "numPlays": 13126927,
+        "id": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+        "albums": ["50490a11-f739-4616-8756-7a138a32059e"]
+      },
+      "tracks": [
+        {
+          "name": "Same Direction",
+          "duration": "195",
+          "id": "1a48836b-4a60-4285-ba80-5058aadebe97"
+        },
+        {
+          "name": "Out Of Control",
+          "duration": "162",
+          "id": "c3eb47a3-d93a-41c2-a5f1-6c9e679aa4be"
+        },
+        {
+          "name": "What Happened To Us?",
+          "duration": "240",
+          "id": "2482c81f-51ea-45e4-be7d-7ceb0ad8af0a"
+        },
+        {
+          "name": "Escape",
+          "duration": "224",
+          "id": "1d58c81e-9c42-4d89-916b-1fdc28ce6a67"
+        },
+        {
+          "name": "Just One",
+          "duration": "199",
+          "id": "6aa19d4b-6408-41b3-b839-cbb66f608d05"
+        },
+        {
+          "name": "Lucky",
+          "duration": "179",
+          "id": "6023f953-9832-4464-82de-7d4c8ea7d1ce"
+        },
+        {
+          "name": "From The Heart",
+          "duration": "183",
+          "id": "c64dfbbd-e0d6-4bb0-aef7-da2560711f68"
+        },
+        {
+          "name": "The Reason",
+          "duration": "232",
+          "id": "52a713e5-5d7a-4993-ad72-38fb06d253c7"
+        },
+        {
+          "name": "Let It Out",
+          "duration": "198",
+          "id": "dda60d3d-fe2e-4622-be48-1192c1b5780f"
+        },
+        {
+          "name": "Unaffected",
+          "duration": "213",
+          "id": "62bdd212-1504-4bdd-8962-8906b1e2f14f"
+        },
+        {
+          "name": "Never There",
+          "duration": "183",
+          "id": "c1ac4429-f46d-4d85-a3ff-e64658734bc5"
+        },
+        {
+          "name": "Disappear",
+          "duration": "308",
+          "id": "f1cae3e1-d13f-4863-acbe-233046cfcf01"
+        }
+      ]
+    }
+  ],
+  [
+    "add9be65-7960-4fb7-beac-c4c34243b095",
+    {
+      "name": "The Best Of Joy Division",
+      "id": "add9be65-7960-4fb7-beac-c4c34243b095",
+      "releasedDate": "1999-01-06T14:55:32.507Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/1c5d77850a254973a778f645a0f9707f.png",
+      "band": {
+        "name": "Joy Division",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "post-punk",
+        "biography": "\nJoy Division were a post-punk band formed in 1976 in Salford, Greater Manchester, United Kingdom. Originally named Warsaw, the band consisted of Ian Curtis (vocals and occasional guitar), Bernard Sumner (guitar and keyboards), Peter Hook (bass guitar and backing vocals) and Stephen Morris (drums and percussion). The band dissolved in May 1980 after the suicide of its lead singer, Ian Curtis. Much of their popularity/reputation arguably resulted from frequent playings on air by iconic DJ John Peel <a href=\"https://www.last.fm/music/Joy+Division\">Read more on Last.fm</a>",
+        "numPlays": 12523627,
+        "id": "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+        "albums": ["add9be65-7960-4fb7-beac-c4c34243b095"]
+      },
+      "tracks": [
+        {
+          "name": "Digital",
+          "duration": "219",
+          "id": "80279f9e-b286-472f-8bc9-f23b140a417d"
+        },
+        {
+          "name": "Disorder",
+          "duration": "216",
+          "id": "b1ee0840-4482-4718-b1de-0af2ea465137"
+        },
+        {
+          "name": "Shadowplay",
+          "duration": "230",
+          "id": "53273514-8027-4de4-b8a7-280b880a5670"
+        },
+        {
+          "name": "New Dawn Fades",
+          "duration": "287",
+          "id": "82391947-6034-4219-801f-8d91dd57b2ff"
+        },
+        {
+          "name": "Transmission",
+          "duration": "217",
+          "id": "eb610641-8e64-457a-84f1-c0963dd88506"
+        },
+        {
+          "name": "Atmosphere",
+          "duration": "251",
+          "id": "94fe30c9-91d8-4dee-9c24-e366c7d980c5"
+        },
+        {
+          "name": "Dead Souls",
+          "duration": "295",
+          "id": "62d60f11-a7ed-45bb-8f6e-a3f88ad817c8"
+        },
+        {
+          "name": "She's Lost Control",
+          "duration": "220",
+          "id": "daba58eb-e50e-4e0b-bae9-f5c69884360c"
+        },
+        {
+          "name": "Love Will Tear Us Apart",
+          "duration": "208",
+          "id": "07fdf13d-5df9-4876-a2b0-3f4641fc86f8"
+        },
+        {
+          "name": "These Days",
+          "duration": "206",
+          "id": "ec20f95a-9fa1-4d05-917a-3ba9b27a5174"
+        },
+        {
+          "name": "Twenty Four Hours",
+          "duration": "266",
+          "id": "b92bbec0-22db-4631-9582-56858495bff8"
+        },
+        {
+          "name": "Heart and Soul",
+          "duration": "283",
+          "id": "eea54e80-bd2b-4285-836a-83d710ff78a3"
+        },
+        {
+          "name": "Incubation",
+          "duration": "172",
+          "id": "4a299730-d810-436b-9aa7-8246fff1771b"
+        },
+        {
+          "name": "Isolation",
+          "duration": "165",
+          "id": "23f22805-54b9-4f00-ae26-e8efee82de49"
+        },
+        {
+          "name": "Exercise One",
+          "duration": "188",
+          "id": "0a0527a2-d71c-40c2-9226-597220eb1202"
+        },
+        {
+          "name": "Insight",
+          "duration": "240",
+          "id": "5cba50d6-1e54-433e-80da-c236f143fc94"
+        },
+        {
+          "name": "She's Lost Control",
+          "duration": "220",
+          "id": "a580cfc9-91c0-4a44-9e39-080d980678e3"
+        },
+        {
+          "name": "Transmission",
+          "duration": "217",
+          "id": "03d91a42-9b3d-4ba7-b710-abc4046ebd6d"
+        },
+        {
+          "name": "Love Will Tear Us Apart",
+          "duration": "208",
+          "id": "5daee46d-88bb-4f81-9120-ac90296db26d"
+        },
+        {
+          "name": "Twenty Four Hours",
+          "duration": "266",
+          "id": "8e195275-5e19-4914-a95f-895067a55583"
+        },
+        {
+          "name": "Colony",
+          "duration": "233",
+          "id": "2b2e701b-5a92-473a-a765-60fc77b1a94c"
+        },
+        {
+          "name": "Sound of Music",
+          "duration": "236",
+          "id": "cc75e4ff-e5ad-4e88-9b58-c47ebba55ff5"
+        },
+        {
+          "name": "Transmission",
+          "duration": "217",
+          "id": "3ca9da29-fc44-42fc-92ef-9ea2fbd1ccdb"
+        },
+        {
+          "name": "She's Lost Control",
+          "duration": "220",
+          "id": "f5eaccd8-d1c2-4e31-9f25-8370644b39e4"
+        },
+        {
+          "name": "Ian Curtis & Stephen Morris Interviewed by Richard Skinner",
+          "duration": "212",
+          "id": "191a8d8c-6625-4c37-aff3-4b7b00eca333"
+        }
+      ]
+    }
+  ],
+  [
+    "d5aa8a52-f795-41b2-87c6-fdb1975fdb39",
+    {
+      "name": "The Black and White Album",
+      "id": "d5aa8a52-f795-41b2-87c6-fdb1975fdb39",
+      "releasedDate": "1986-02-11T09:23:11.931Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/6d17941a3e3441d7b254c81e7211a3e1.png",
+      "band": {
+        "name": "The Hives",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "seen live",
+        "biography": "\nThe Hives are a garage rock band from Fagersta, Sweden that emerged in the US and the UK in the early 2000s, but existed for nearly a decade before that, playing punk rock.\n\nThe Hives are: \n\"Howlin\" Pelle Almqvist (vocals)\nNicholaus \"Arson\" Almqvist (guitar)\nMikael \"Vigilante Carlstroem\" Karlsson  (guitar)\nMattias \"Dr. Matt Destruction\" Bernvall (bass) \nChristian \"Chris Dangerous\" Grahn (drums)\n\nThe band claims that their songs are written by an honorary \"sixth Hive\", Randy Fitzsimmons. <a href=\"https://www.last.fm/music/The+Hives\">Read more on Last.fm</a>",
+        "numPlays": 17429823,
+        "id": "487bfd74-71bf-46dd-b89c-80b7a0f06f2f",
+        "albums": ["d5aa8a52-f795-41b2-87c6-fdb1975fdb39"]
+      },
+      "tracks": [
+        {
+          "name": "Tick Tick Boom",
+          "duration": "206",
+          "id": "4e16fa30-d551-45d0-b9fa-77a140db6b4a"
+        },
+        {
+          "name": "Try It Again",
+          "duration": "209",
+          "id": "21a0449d-c302-4e43-9e52-8ecff46be991"
+        },
+        {
+          "name": "You Got It All... Wrong",
+          "duration": "162",
+          "id": "be2143b2-2686-4b41-b3af-bdbc3b1bbe04"
+        },
+        {
+          "name": "Well All Right!",
+          "duration": "209",
+          "id": "d593a67e-b8f0-41c0-b28d-e61a9b1474c8"
+        },
+        {
+          "name": "Hey Little World",
+          "duration": "202",
+          "id": "dfde629f-41c3-49f0-84fb-d3ce71d65def"
+        },
+        {
+          "name": "A Stroll Through Hive Manor Corridors",
+          "duration": "159",
+          "id": "4e46e4c2-920c-4874-b031-830931a0ff99"
+        },
+        {
+          "name": "Won't Be Long",
+          "duration": "226",
+          "id": "e5ea7be0-5001-4319-bb4f-41802106bd97"
+        },
+        {
+          "name": "T.H.E.H.I.V.E.S.",
+          "duration": "217",
+          "id": "00f590cb-3320-4d88-a7a1-f44460285ef3"
+        },
+        {
+          "name": "Return The Favour",
+          "duration": "189",
+          "id": "0a546dcc-17e1-4dff-979d-43028c210668"
+        },
+        {
+          "name": "Giddy Up!",
+          "duration": "171",
+          "id": "6942f3ac-0f1c-46fe-8ada-72f999711151"
+        },
+        {
+          "name": "Square One Here I Come",
+          "duration": "190",
+          "id": "381bc8e3-34d5-4f8f-88cc-3522c933b6ff"
+        },
+        {
+          "name": "You Dress Up For Armageddon",
+          "duration": "189",
+          "id": "1d8a6139-91d0-451a-bc4e-1ad14c391569"
+        },
+        {
+          "name": "Puppet On A String",
+          "duration": "174",
+          "id": "c1d48ae6-7fa4-4714-b98f-b28284fb3e96"
+        },
+        {
+          "name": "Bigger Hole To Fill",
+          "duration": "217",
+          "id": "c74ebfdd-de05-4477-b955-d5f65f4aa6eb"
+        }
+      ]
+    }
+  ],
+  [
+    "6f6485d5-5c62-3a43-bc2d-bba036afe802",
+    {
+      "name": "All That We Needed",
+      "id": "6f6485d5-5c62-3a43-bc2d-bba036afe802",
+      "releasedDate": "2019-01-20T09:28:30.419Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/bc1ea275a6d04db08a4b3948b32a7c6c.png",
+      "band": {
+        "name": "Plain White T's",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "indie",
+        "biography": "Plain White T's are a pop-punk band formed in 1997 in Illinois, United States. They are best known for \"Hey There Delilah\", an acoustic song performed solely by singer Tom Higgenson originally released in 2005 and later hit #1 in the US in 2007.\n\nFor over a decade, Plain White T's have been playing to packed audiences craving for that perfect pop-punk punch. Their journey, which began in a small suburban basement playing covers, has taken the band to Warped Tour three times, and landed them opening slots for bands like Jimmy Eat World and AFI. <a href=\"https://www.last.fm/music/Plain+White+T%27s\">Read more on Last.fm</a>",
+        "numPlays": 17956798,
+        "id": "49576e42-fbbd-4d73-968d-93c8dcf7f065",
+        "albums": ["6f6485d5-5c62-3a43-bc2d-bba036afe802"]
+      },
+      "tracks": [
+        {
+          "name": "All That We Needed",
+          "duration": "221",
+          "id": "b4b5dcb8-3e3e-47cd-b50a-ab831315c43b"
+        },
+        {
+          "name": "Revenge",
+          "duration": "206",
+          "id": "3004fb4a-6a3d-4fbd-9e4e-5ac00ee88653"
+        },
+        {
+          "name": "Take Me Away",
+          "duration": "161",
+          "id": "75defd20-ca31-44b4-b76a-33993aba20d9"
+        },
+        {
+          "name": "My Only One",
+          "duration": "229",
+          "id": "e37e07c3-4780-4703-8d25-7b82b1e64396"
+        },
+        {
+          "name": "Sad Story",
+          "duration": "177",
+          "id": "903ecebf-f951-4069-a1c8-9a5d0550a48d"
+        },
+        {
+          "name": "Breakdown",
+          "duration": "214",
+          "id": "64f15337-1e70-4205-90fc-25c4dafebc62"
+        },
+        {
+          "name": "What More Do You Want?",
+          "duration": "144",
+          "id": "7727930d-ed3e-4c50-8b5b-576dfc26a717"
+        },
+        {
+          "name": "Lazy Day Afternoon",
+          "duration": "135",
+          "id": "9527d7b0-2c5d-4943-bf24-90e33bc4f0d4"
+        },
+        {
+          "name": "Anything",
+          "duration": "179",
+          "id": "68098e81-14b2-4a29-8000-1bd107b3fcb6"
+        },
+        {
+          "name": "Sing My Best",
+          "duration": "171",
+          "id": "4946ff1d-21e4-46c4-85a5-5a69ade1c8fb"
+        },
+        {
+          "name": "Faster",
+          "duration": "171",
+          "id": "aef3f989-39e4-47ad-8319-001c243ed7fc"
+        },
+        {
+          "name": "Last Call",
+          "duration": "173",
+          "id": "4a51e16c-2d48-4c33-aab8-bb7ce3db4e7d"
+        },
+        {
+          "name": "Hey There Delilah",
+          "duration": "231",
+          "id": "b6fea097-f624-48df-ba91-888809abf49d"
+        }
+      ]
+    }
+  ],
+  [
+    "c457adc4-3640-4d00-9e4c-239aa6a63ea8",
+    {
+      "name": "3 Doors Down",
+      "id": "c457adc4-3640-4d00-9e4c-239aa6a63ea8",
+      "releasedDate": "2001-12-20T11:39:23.944Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/261324c8d05d42babb0cbdef8c204494.png",
+      "band": {
+        "name": "3 Doors Down",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "3 Doors Down is a post-Grunge influenced Alternative rock group from Escatawpa, Mississippi, United States that formed in 1996. Consisting of Brad Arnold (vocals), Chet Roberts (guitar, a replacement for Matt Roberts), Todd Harrell (bass), Chris Henderson (guitar), and Greg Upchurch (drums), the band is known for several successful rock singles such as \"Here Without You\" and \"Kryptonite\". The group signed to Universal Records in 2000.\n\nUniversal then released their first album, 'The Better Life', and they garnered a big fan response. <a href=\"https://www.last.fm/music/3+Doors+Down\">Read more on Last.fm</a>",
+        "numPlays": 4471468,
+        "id": "2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+        "albums": [
+          "d2c4953c-08f2-49cb-9050-8f39b6f3803d",
+          "c457adc4-3640-4d00-9e4c-239aa6a63ea8"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Train",
+          "duration": "191",
+          "id": "ae97134e-8039-46d1-aed4-44845f728e1f"
+        },
+        {
+          "name": "Citizen/Soldier",
+          "duration": "233",
+          "id": "f9ab7203-615e-460f-9dea-3892a3112b28"
+        },
+        {
+          "name": "It's Not My Time",
+          "duration": "242",
+          "id": "53f4fb12-2921-469f-aab3-6f8b30114221"
+        },
+        {
+          "name": "Let Me Be Myself",
+          "duration": "229",
+          "id": "31c9b3be-b504-4b93-a9ea-eb7604f97870"
+        },
+        {
+          "name": "Pages",
+          "duration": "228",
+          "id": "8e7ba5ee-50b9-4c0b-857a-a51a42d1c85d"
+        },
+        {
+          "name": "It's the Only One You've Got",
+          "duration": "264",
+          "id": "77924895-02c2-4134-a6fe-b462639612a3"
+        },
+        {
+          "name": "Give It to Me",
+          "duration": "202",
+          "id": "bd7ae3cd-de76-4129-9cc9-e9e9d6cc6177"
+        },
+        {
+          "name": "These Days",
+          "duration": "220",
+          "id": "8b8d3944-1afd-4a41-9188-0998c5250687"
+        },
+        {
+          "name": "Your Arms Feel Like home",
+          "duration": "224",
+          "id": "06c069c1-7558-42e2-ad2e-38629851f75c"
+        },
+        {
+          "name": "Runaway",
+          "duration": "204",
+          "id": "bfb025d8-befb-422d-84a5-85224481304e"
+        },
+        {
+          "name": "When It's Over",
+          "duration": "258",
+          "id": "7b21d04d-a648-4477-b656-bf5f60a1e6ac"
+        },
+        {
+          "name": "She Don't Want the World",
+          "duration": "244",
+          "id": "aec69d9d-cca4-4d30-b010-7516282017a7"
+        }
+      ]
+    }
+  ],
+  [
+    "d1cc351e-add4-34ec-b411-4c52cb432727",
+    {
+      "name": "Tenacious D",
+      "id": "d1cc351e-add4-34ec-b411-4c52cb432727",
+      "releasedDate": "2020-03-09T07:10:39.126Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/5ec9ac76458e47fca2b6919dd53c9889.png",
+      "band": {
+        "name": "Tenacious D",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Tenacious D (often referred to as \"The D\" and sometimes introduced as \"The Greatest Band in the world. Period.\") is an American satirical rock duo formed by musicians and actors Kyle Gass and Jack Black in Los Angeles, California in 1994. Their music fuses vulgar absurdist comedy with rock music in a style that critics have described as \"mock rock\". The band first gained reputation in 1999, starring in a self-titled HBO TV series. The drumming on <a href=\"https://www.last.fm/music/Tenacious+D\">Read more on Last.fm</a>",
+        "numPlays": 15071871,
+        "id": "148ddea2-6839-4354-8e2c-5dfadf136b7f",
+        "albums": [
+          "b601a51c-fd3b-41cd-9d78-29efde7a3ffa",
+          "d1cc351e-add4-34ec-b411-4c52cb432727"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Kielbasa",
+          "duration": "182",
+          "id": "e7c4456e-3dbd-4a4c-be03-2d7953bdc6f4"
+        },
+        {
+          "name": "One Note Song",
+          "duration": "84",
+          "id": "25624a91-3987-446c-b460-6149521b9a00"
+        },
+        {
+          "name": "Tribute",
+          "duration": "248",
+          "id": "fafd92db-35ea-46c2-b3d0-bb29a185de65"
+        },
+        {
+          "name": "Wonderboy",
+          "duration": "247",
+          "id": "ca2f4ae6-cb5b-4939-bcab-8af64fd1ec30"
+        },
+        {
+          "name": "Hard Fucking",
+          "duration": "36",
+          "id": "0ffb0b27-7550-450e-a49b-c4349cee3271"
+        },
+        {
+          "name": "Fuck Her Gently",
+          "duration": "123",
+          "id": "bc05e25d-558c-4e8c-ae32-a0b913277982"
+        },
+        {
+          "name": "Explosivo",
+          "duration": "115",
+          "id": "a343b96c-4b74-421c-8a65-d86332eeb616"
+        },
+        {
+          "name": "Dio",
+          "duration": "101",
+          "id": "0a6be096-b5b3-4a1e-a59e-3e049a0e252f"
+        },
+        {
+          "name": "Inward Singing",
+          "duration": "133",
+          "id": "adca31e0-d432-4f76-8079-edae0d09338d"
+        },
+        {
+          "name": "Kyle Quit The Band",
+          "duration": "90",
+          "id": "57e1369f-43c8-465f-9e32-233efdb07643"
+        },
+        {
+          "name": "The Road",
+          "duration": "140",
+          "id": "8e379363-3750-4a71-9e16-8d9e6fdaf8c3"
+        },
+        {
+          "name": "Cock Pushups",
+          "duration": "47",
+          "id": "2bc2e0a9-833c-4ed6-8003-bf1c51dbee5f"
+        },
+        {
+          "name": "Lee",
+          "duration": "62",
+          "id": "bbcf30c0-85da-488c-bea9-86b5e7fd92a0"
+        },
+        {
+          "name": "Friendship Test",
+          "duration": "91",
+          "id": "3d0dfac6-723f-4fb1-9802-3aaeef99e109"
+        },
+        {
+          "name": "Friendship",
+          "duration": "120",
+          "id": "d180cbff-6d24-4460-b590-6806ab202ecd"
+        },
+        {
+          "name": "Karate Schnitzel",
+          "duration": "37",
+          "id": "01dfba5c-5492-4252-b129-96de859450e2"
+        },
+        {
+          "name": "Karate",
+          "duration": "65",
+          "id": "5a6b3841-9840-47a1-9ed6-df23706d8888"
+        },
+        {
+          "name": "Rock Your Socks",
+          "duration": "213",
+          "id": "2b84ca5d-7b03-4c38-801b-8811c4498092"
+        },
+        {
+          "name": "Drive-Thru",
+          "duration": "181",
+          "id": "e70c5322-3253-4656-8670-01d829efda22"
+        },
+        {
+          "name": "Double Team",
+          "duration": "191",
+          "id": "8acda762-2cba-485f-ad4a-2aebd9ab1eb4"
+        },
+        {
+          "name": "City Hall/I Believe/Malibu Nights Medley",
+          "duration": "542",
+          "id": "e741f3d9-f8d1-4370-8605-b435ae1f7c70"
+        }
+      ]
+    }
+  ],
+  [
+    "d226c8cc-f58c-3b1f-997b-8243180870df",
+    {
+      "name": "Born to Run",
+      "id": "d226c8cc-f58c-3b1f-997b-8243180870df",
+      "releasedDate": "2002-09-30T06:06:42.301Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2f9e7a75277e438197de13fdbf1cafdb.png",
+      "band": {
+        "name": "Bruce Springsteen",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Bruce Frederick Joseph Springsteen (born September 23, 1949), nicknamed \"The Boss,\" is an American singer-songwriter and leader of the E Street Band. He is recognized for his poetic lyrics, his Jersey Shore roots, his distinctive voice, and his lengthy, energetic stage performances.\n\nSpringsteen has recorded both rock albums and more somber folk-oriented works. His most successful studio albums, Born to Run (1975) and Born in the U.S.A. (1984), find pleasures in the struggles of daily American life. <a href=\"https://www.last.fm/music/Bruce+Springsteen\">Read more on Last.fm</a>",
+        "numPlays": 11660792,
+        "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
+        "albums": [
+          "ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a",
+          "88263b6a-1785-48a7-9397-851edcaed134",
+          "d226c8cc-f58c-3b1f-997b-8243180870df"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Thunder Road",
+          "duration": "290",
+          "id": "41cfa62c-353c-4986-888c-d3f20f6f6d15"
+        },
+        {
+          "name": "Jungleland",
+          "duration": "573",
+          "id": "f1350b69-dbc9-4c84-b615-77f6479f655e"
+        }
+      ]
+    }
+  ],
+  [
+    "72f1e49c-3984-483f-a6ca-35b221bbfdd1",
+    {
+      "name": "August And Everything After",
+      "id": "72f1e49c-3984-483f-a6ca-35b221bbfdd1",
+      "releasedDate": "2009-04-27T17:53:57.033Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/e15bbb004de940efb7f20e941f7e919d.png",
+      "band": {
+        "name": "Counting Crows",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "\nCounting Crows is an American rock band originating from Berkeley, California. Formed in 1991, the group gained fame in 1993 following the release of their debut album, titled 'August and Everything After', when track \"Mr. Jones\" became a big hit. Known for their melancholic yet melodic songwriting, the band started when singer Adam Duritz (previously of The Himalayans and Sordid Humor) teamed up with guitarist David Bryson (local producer and former member of the band Mr. <a href=\"https://www.last.fm/music/Counting+Crows\">Read more on Last.fm</a>",
+        "numPlays": 1775186,
+        "id": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
+        "albums": ["72f1e49c-3984-483f-a6ca-35b221bbfdd1"]
+      },
+      "tracks": [
+        {
+          "name": "Round Here",
+          "duration": "330",
+          "id": "5bc1ceea-353d-4296-ad5d-751bcd83cec0"
+        },
+        {
+          "name": "Omaha",
+          "duration": "221",
+          "id": "5a9986ef-e94b-4856-8c41-a0ce4df1cd61"
+        },
+        {
+          "name": "Mr. Jones",
+          "duration": "317",
+          "id": "9c334b2d-6192-4f97-bbc9-442836b77bb5"
+        },
+        {
+          "name": "Perfect Blue Buildings",
+          "duration": "300",
+          "id": "67db9561-d24d-444e-b3ae-620898161309"
+        },
+        {
+          "name": "Anna Begins",
+          "duration": "835",
+          "id": "14fa16cd-5294-4569-a7a1-549533840d6f"
+        },
+        {
+          "name": "Time and Time Again",
+          "duration": "319",
+          "id": "efcccdb0-147d-461c-8ad8-bb5273a9926f"
+        },
+        {
+          "name": "Rain King",
+          "duration": "349",
+          "id": "f4853572-6666-4aec-a02b-d189c4c44bd2"
+        },
+        {
+          "name": "Sullivan Street",
+          "duration": "277",
+          "id": "4bb48026-4ffd-400e-afb9-817d7006aea4"
+        },
+        {
+          "name": "Ghost Train",
+          "duration": "247",
+          "id": "a4f1bdbf-a7f6-4ac7-934c-74d0eb5d7b18"
+        },
+        {
+          "name": "Raining In Baltimore",
+          "duration": "286",
+          "id": "2baa5aaa-8a77-4d8b-9735-3a011a577aa9"
+        },
+        {
+          "name": "A Murder Of One",
+          "duration": "343",
+          "id": "facc3221-acb1-4400-9393-55b9beefc729"
+        }
+      ]
+    }
+  ],
+  [
+    "e2cb1fb9-7117-4dae-9b40-9e5480301b9e",
+    {
+      "name": "Lust For Life",
+      "id": "e2cb1fb9-7117-4dae-9b40-9e5480301b9e",
+      "releasedDate": "2013-07-15T15:33:50.836Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/b68045da645548c783381464ba5cc8ce.png",
+      "band": {
+        "name": "Iggy Pop",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "punk",
+        "biography": "\nIggy Pop (born James Newell Osterberg, Jr.; April 21, 1947) is an American singer, songwriter, musician, and actor. Though widely known as an innovator and \"godfather\" of punk rock, Pop's music has encompassed a number of styles over the years, including pop, hard rock, jazz and blues. Pop became known as 'Iggy' in high school, during which time he served as drummer for local blues band The Iguanas. He is vocalist of influential proto-punk band The Stooges (Pop and the other surviving members of the group reunited in 2003) <a href=\"https://www.last.fm/music/Iggy+Pop\">Read more on Last.fm</a>",
+        "numPlays": 2425126,
+        "id": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
+        "albums": ["e2cb1fb9-7117-4dae-9b40-9e5480301b9e"]
+      },
+      "tracks": [
+        {
+          "name": "Lust For Life",
+          "duration": "310",
+          "id": "7d4250ce-8ebc-450b-a273-3fa31570f018"
+        },
+        {
+          "name": "Sixteen",
+          "duration": "143",
+          "id": "b0eaa2fc-a877-4676-b779-08be3a9a9738"
+        },
+        {
+          "name": "Some Weird Sin",
+          "duration": "220",
+          "id": "8cf23f16-7c13-4a45-b19a-955bbe7c1b6e"
+        },
+        {
+          "name": "The Passenger",
+          "duration": "280",
+          "id": "7ee45fef-ee54-4fdb-9121-ad25deaa21e3"
+        },
+        {
+          "name": "Tonight",
+          "duration": "218",
+          "id": "16fc3990-7d14-427a-80b3-48059f6bc44a"
+        },
+        {
+          "name": "Success",
+          "duration": "263",
+          "id": "55742318-cffe-4ff2-8450-a325a2fa07ea"
+        },
+        {
+          "name": "Turn Blue",
+          "duration": "413",
+          "id": "eb4b6a43-6729-49cf-93e7-eae9ad1ea1b5"
+        },
+        {
+          "name": "Neighborhood Threat",
+          "duration": "202",
+          "id": "a06f89c0-cd81-4331-8dc2-997e482dffa2"
+        },
+        {
+          "name": "Fall In Love With Me",
+          "duration": "390",
+          "id": "9f2ec952-6820-449b-9b1b-bd137893b1d2"
+        }
+      ]
+    }
+  ],
+  [
+    "080a8940-dc1a-49f2-b295-d0c15de3b066",
+    {
+      "name": "Daughtry",
+      "id": "080a8940-dc1a-49f2-b295-d0c15de3b066",
+      "releasedDate": "1980-04-03T22:55:20.351Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/28926f035afa400ea1fb16b5b686b45c.png",
+      "band": {
+        "name": "Daughtry",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Daughtry is an American rock band formed and fronted by namesake Chris Daughtry, who was a finalist on the fifth season of American Idol. Their self-titled debut album was released in November 2006 and reached number one on the Billboard 200. The album went on to sell more than four million copies in the United States, and has been certified quadruple platinum by the RIAA. Daughtry was also named the best selling album of 2007 by Billboard, becoming the fastest-selling debut rock album in Soundscan history. <a href=\"https://www.last.fm/music/Daughtry\">Read more on Last.fm</a>",
+        "numPlays": 17053274,
+        "id": "21e3292e-dac8-4609-b57d-402f926aa41f",
+        "albums": ["080a8940-dc1a-49f2-b295-d0c15de3b066"]
+      },
+      "tracks": [
+        {
+          "name": "It's Not Over",
+          "duration": "215",
+          "id": "4c351029-84fe-47c7-8a7b-c7430c977b69"
+        },
+        {
+          "name": "Used To",
+          "duration": "212",
+          "id": "2e13a30b-cd38-483a-9f37-63c47d0497fb"
+        },
+        {
+          "name": "Home",
+          "duration": "255",
+          "id": "b618c21f-63ea-4cf5-b897-3036249fd76e"
+        },
+        {
+          "name": "Over You",
+          "duration": "207",
+          "id": "f6bc1600-0e0f-4477-b71e-69ae4c6411c4"
+        },
+        {
+          "name": "Crashed",
+          "duration": "211",
+          "id": "5dee647d-a2ce-4fb3-9af9-18e1a6fc5c14"
+        },
+        {
+          "name": "Feels Like Tonight",
+          "duration": "241",
+          "id": "93722aa2-7106-41a2-acbe-dd1e1a63c47e"
+        },
+        {
+          "name": "What I Want",
+          "duration": "168",
+          "id": "6601aeb4-81f4-485b-b7cd-26a25f1391b7"
+        },
+        {
+          "name": "Breakdown",
+          "duration": "241",
+          "id": "2363d5d9-44ed-4b48-9022-4dfd1fd8fbb0"
+        },
+        {
+          "name": "Gone",
+          "duration": "201",
+          "id": "fff737d8-9aa8-4aa7-84e6-af300d5f71a1"
+        },
+        {
+          "name": "There and Back Again",
+          "duration": "195",
+          "id": "bd5ee5c5-5f95-4c2b-8a98-f8dff1a3e8da"
+        },
+        {
+          "name": "All These Lives",
+          "duration": "203",
+          "id": "24443d02-cbf8-48ae-b090-905e3216b2ec"
+        },
+        {
+          "name": "What About Now",
+          "duration": "250",
+          "id": "63538e7b-a299-4e43-92f9-db0c1cbf989d"
+        }
+      ]
+    }
+  ],
+  [
+    "2fe339f1-dd0b-4694-b0d9-cab1f1126a12",
+    {
+      "name": "Backspacer",
+      "id": "2fe339f1-dd0b-4694-b0d9-cab1f1126a12",
+      "releasedDate": "2001-05-04T12:28:32.277Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/3c2c7235d48443e1a84338030ca6e0d9.png",
+      "band": {
+        "name": "Pearl Jam",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "Grunge",
+        "biography": "Pearl Jam is an American rock band formed in 1990 in Seattle, Washington. Since its inception, the band's line-up has included Eddie Vedder (lead vocals), Mike McCready (lead guitar), Stone Gossard (rhythm guitar), and Jeff Ament (bass). Since 1998, the band has also included drummer Matt Cameron (also of Soundgarden). Boom Gaspar (piano) has also been a session/touring member with the band since 2002.\n\nFormed after the demise of Gossard and Ament's previous band <a href=\"https://www.last.fm/music/Pearl+Jam\">Read more on Last.fm</a>",
+        "numPlays": 471157,
+        "id": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "albums": ["2fe339f1-dd0b-4694-b0d9-cab1f1126a12"]
+      },
+      "tracks": [
+        {
+          "name": "Gonna See My Friend",
+          "duration": "168",
+          "id": "23f389a2-522e-44ea-a83c-981ef88f57e2"
+        },
+        {
+          "name": "Got Some",
+          "duration": "178",
+          "id": "9a6dc648-699e-4c52-8ad7-fc896ec1f498"
+        },
+        {
+          "name": "The Fixer",
+          "duration": "247",
+          "id": "8a9fc886-f2cd-4dea-9fdd-9f85dc1b9b0b"
+        },
+        {
+          "name": "Johnny Guitar",
+          "duration": "171",
+          "id": "7e705da0-4d43-453c-8351-6205218ae4ca"
+        },
+        {
+          "name": "Just Breathe",
+          "duration": "233",
+          "id": "a3b8b96d-2229-43ea-bc6a-80255fde3540"
+        },
+        {
+          "name": "Amongst the Waves",
+          "duration": "295",
+          "id": "157fa2e7-4d5c-4b3b-bc38-c54c63e3eed5"
+        },
+        {
+          "name": "Unthought Known",
+          "duration": "235",
+          "id": "1721bfa3-e410-486d-9fb1-fc210c5b4629"
+        },
+        {
+          "name": "Speed of Sound",
+          "duration": "214",
+          "id": "94a9f875-7cd2-4b3b-b710-50130b4daab9"
+        },
+        {
+          "name": "Force of Nature",
+          "duration": "245",
+          "id": "0f937e6b-01ab-4359-a7c4-5c97d6bf0e53"
+        },
+        {
+          "name": "The End",
+          "duration": "177",
+          "id": "20b278d0-cd6a-4e88-b358-bc270c8e6cc2"
+        },
+        {
+          "name": "Better Man - live",
+          "duration": "285",
+          "id": "ce2fe8c6-b868-4426-885a-f22efc852a6f"
+        }
+      ]
+    }
+  ],
+  [
+    "b8271363-265a-43b9-b9ac-488fd3a4811a",
+    {
+      "name": "Achtung Baby",
+      "id": "b8271363-265a-43b9-b9ac-488fd3a4811a",
+      "releasedDate": "1971-08-04T13:25:54.657Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/a482040d21924ddacd5fe75dedbb1ef2.png",
+      "band": {
+        "name": "U2",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "U2 are an Irish  alternative rock band from Dublin formed in 1976. The group consists of Bono (lead vocals and rhythm guitar), the Edge (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion). Initially rooted in post-punk, U2's musical style evolved throughout their career, yet has maintained an anthemic sound built on Bono's expressive vocals and the Edge's effects-based guitar textures. <a href=\"https://www.last.fm/music/U2\">Read more on Last.fm</a>",
+        "numPlays": 8168159,
+        "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+        "albums": [
+          "d287c703-5c25-3181-85d4-4d8c1a7d8ecd",
+          "650ed589-c6c2-3bdf-a132-e781020bcbff",
+          "b8271363-265a-43b9-b9ac-488fd3a4811a"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Zoo Station",
+          "duration": "276",
+          "id": "bf9e33c1-7580-4f69-af37-aa5a8e70c3e3"
+        },
+        {
+          "name": "Even Better Than the Real Thing",
+          "duration": "221",
+          "id": "784399ac-a09c-4c0b-bcee-b2622e2c5b13"
+        },
+        {
+          "name": "One",
+          "duration": "276",
+          "id": "66e10d4d-beaf-4d38-86a6-8873b40b8d32"
+        },
+        {
+          "name": "Until the End of the World",
+          "duration": "278",
+          "id": "eac1b19a-2cdd-4c85-92f0-01fc8dfad7ad"
+        },
+        {
+          "name": "Who's Gonna Ride Your Wild Horses",
+          "duration": "316",
+          "id": "e9eb493e-7eb4-4e23-8004-37f84f56c938"
+        },
+        {
+          "name": "So Cruel",
+          "duration": "349",
+          "id": "f43e6e2a-7cc1-49a4-8950-b28ca6d7c441"
+        },
+        {
+          "name": "The Fly",
+          "duration": "269",
+          "id": "9d262e3e-600f-4aa6-8864-d30f43b66d3d"
+        },
+        {
+          "name": "Mysterious Ways",
+          "duration": "243",
+          "id": "bf241ba9-f42f-43fa-8b10-da5c14132c4d"
+        },
+        {
+          "name": "Tryin' to Throw Your Arms Around the World",
+          "duration": "233",
+          "id": "401704af-e395-4967-833a-2f4aa9d63ef3"
+        },
+        {
+          "name": "Ultra Violet (Light My Way)",
+          "duration": "331",
+          "id": "91d826e4-5797-47c0-b8ef-64c4cd04312d"
+        },
+        {
+          "name": "Acrobat",
+          "duration": "270",
+          "id": "60ec2584-f96c-4872-bdfe-5219488def80"
+        },
+        {
+          "name": "Love Is Blindness",
+          "duration": "263",
+          "id": "1f850386-1af9-478b-a784-6d393843d237"
+        }
+      ]
+    }
+  ],
+  [
+    "76360728-22dd-4c57-86d2-481b4a2e88fc",
+    {
+      "name": "Don't You Fake It",
+      "id": "76360728-22dd-4c57-86d2-481b4a2e88fc",
+      "releasedDate": "2011-12-07T01:04:30.876Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/82698b70482fa952b5c83acea2595285.png",
+      "band": {
+        "name": "The Red Jumpsuit Apparatus",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "alternative",
+        "biography": "The Red Jumpsuit Apparatus is an alternative rock/post-hardcore band that was originally formed in 2003 in Middleburg, Florida, about 30 miles south west of Jacksonville. The current members of the band are Ronnie Winter, the lead vocalist, Joey Westwood, bassist, Josh Burke, guitarist,  & Jon Wilkes, drummer, all of whom do back-up vocals. \n\nArt often thrives in the aftermath of adversity, and since we last heard from Red Jumpsuit Apparatus, there have been plenty of variables that the five-piece alternative rock act had to endure. <a href=\"https://www.last.fm/music/The+Red+Jumpsuit+Apparatus\">Read more on Last.fm</a>",
+        "numPlays": 6162539,
+        "id": "f0e820ab-f31a-400d-9c5e-8be1c8c38726",
+        "albums": ["76360728-22dd-4c57-86d2-481b4a2e88fc"]
+      },
+      "tracks": [
+        {
+          "name": "In Fate's Hands [Clean]",
+          "duration": "0",
+          "id": "7e711d8d-05de-473b-92cf-48797862ecea"
+        },
+        {
+          "name": "Waiting [Clean]",
+          "duration": "0",
+          "id": "074d379c-844f-427f-bd42-2f873719dd09"
+        },
+        {
+          "name": "False Pretense [Clean]",
+          "duration": "0",
+          "id": "37cb10f8-c3a7-46e1-af67-415fa3bcb249"
+        },
+        {
+          "name": "Face Down",
+          "duration": "192",
+          "id": "1cd9d24a-31da-44fe-9621-ffd51de00e2c"
+        },
+        {
+          "name": "Misery Loves Its Company",
+          "duration": "194",
+          "id": "e302dca3-662c-48c3-aada-40089580570e"
+        },
+        {
+          "name": "Cat And Mouse [Clean]",
+          "duration": "0",
+          "id": "3374ca35-f485-48de-b8a4-390c58349f70"
+        },
+        {
+          "name": "Damn Regret [Clean]",
+          "duration": "0",
+          "id": "40278da5-cc30-4e5c-8124-76ef9ff9aaea"
+        },
+        {
+          "name": "Atrophy [Clean]",
+          "duration": "0",
+          "id": "1b8f57e9-eade-40bd-b065-4e8e93358b5e"
+        },
+        {
+          "name": "Seventeen Ain't So Sweet",
+          "duration": "200",
+          "id": "637def58-ebdc-4257-9767-8dd31f907780"
+        },
+        {
+          "name": "Justify [Clean]",
+          "duration": "0",
+          "id": "a8ba390c-5aa1-4ce4-a1d8-1d2d81657099"
+        },
+        {
+          "name": "Your Guardian Angel",
+          "duration": "231",
+          "id": "1c9c8105-9ddf-4b0f-9f07-e122d5c2a219"
+        }
+      ]
+    }
+  ],
+  [
+    "89999c66-dde7-42c8-98f1-f1ff0752779b",
+    {
+      "name": "Greatest Hits",
+      "id": "89999c66-dde7-42c8-98f1-f1ff0752779b",
+      "releasedDate": "1993-12-05T22:16:24.113Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/84e708c86f0b4847a8e80e0e13494944.png",
+      "band": {
+        "name": "Lenny Kravitz",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Leonard Albert \"Lenny\" Kravitz (born May 26, 1964. New York, USA) is an American singer-songwriter, record producer, guitarist and actor whose retro amalgam of rock, pop, funk, and even techno is inspired by such music icons as David Bowie, Jimi Hendrix and John Lennon. Like Prince and Sly Stone before him, Kravitz uses a multi-ethnic, mixed-gender backing band.\n\nKravitz plays guitar, bass, drums, keyboards, percussion, and sitar. He often plays these instruments on each recorded track <a href=\"https://www.last.fm/music/Lenny+Kravitz\">Read more on Last.fm</a>",
+        "numPlays": 14118849,
+        "id": "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f",
+        "albums": ["89999c66-dde7-42c8-98f1-f1ff0752779b"]
+      },
+      "tracks": [
+        {
+          "name": "Are You Gonna Go My Way",
+          "duration": "210",
+          "id": "d37d00b6-b451-49e2-96ef-55193f682202"
+        },
+        {
+          "name": "Fly Away",
+          "duration": "221",
+          "id": "bc73b6f8-23bc-49c6-b4be-d67ad9a82719"
+        },
+        {
+          "name": "Rock And Roll Is Dead",
+          "duration": "202",
+          "id": "d429ac59-1929-44f7-be7a-b7b72b872d25"
+        },
+        {
+          "name": "Again",
+          "duration": "225",
+          "id": "04e272b0-0f3a-4d34-ad80-48767d9b22bf"
+        },
+        {
+          "name": "It Ain't Over 'til It's Over",
+          "duration": "235",
+          "id": "3202fffa-0ac2-4c71-804f-df09939fe596"
+        },
+        {
+          "name": "Can't Get You Off My Mind",
+          "duration": "273",
+          "id": "2d99c9ed-3aa1-4c10-b27f-eb9c6532218e"
+        },
+        {
+          "name": "Mr. Cab Driver",
+          "duration": "229",
+          "id": "3f60596f-bac8-45b3-b3df-4d99f1452d6a"
+        },
+        {
+          "name": "American Woman",
+          "duration": "261",
+          "id": "d5a50e7a-2822-4a6a-87b2-6b431b9b0cfc"
+        },
+        {
+          "name": "Stand by My Woman",
+          "duration": "256",
+          "id": "b8df2014-4db3-4442-a074-a8d4a3dbda32"
+        },
+        {
+          "name": "Always on the Run",
+          "duration": "237",
+          "id": "a8f64691-6122-499e-86ef-2f78ace9df51"
+        },
+        {
+          "name": "Heaven Help",
+          "duration": "190",
+          "id": "4644add1-79b3-47cc-99b8-050e4aca44df"
+        },
+        {
+          "name": "I Belong to You",
+          "duration": "257",
+          "id": "cbd95f91-fa68-4931-8c7f-f329afccb78b"
+        },
+        {
+          "name": "Believe",
+          "duration": "290",
+          "id": "67d81cdf-0e1e-4c20-85eb-58f11217c474"
+        },
+        {
+          "name": "Let Love Rule",
+          "duration": "342",
+          "id": "eddfc400-55d0-4dca-b4dd-2723a84f5777"
+        },
+        {
+          "name": "Black Velveteen",
+          "duration": "288",
+          "id": "cf49308f-0a96-4823-9490-884aaf42cca6"
+        }
+      ]
+    }
+  ],
+  [
+    "b3fad414-9b92-4d04-b703-9605d5d33bac",
+    {
+      "name": "The Long Road",
+      "id": "b3fad414-9b92-4d04-b703-9605d5d33bac",
+      "releasedDate": "1992-08-03T01:09:40.333Z",
+      "image": "https://lastfm.freetls.fastly.net/i/u/300x300/ef37f4e43576427fc2d2c2042eee820d.png",
+      "band": {
+        "name": "Nickelback",
+        "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "genre": "rock",
+        "biography": "Nickelback is a rock band which formed in Hanna, Alberta, Canada in 1995. Nickelback is one of the most commercially successful Canadian groups, having sold 30 million records worldwide. Nickelback ranks as the 11th best selling music act of the 2000s, and places as the 2nd best selling foreign act in the US behind The Beatles for the 2000s.\n\nThe band consists of Chad Kroeger (vocals, guitar), Ryan Peake (guitar, vocals), Mike Kroeger (bass) and Daniel Adair (drums). <a href=\"https://www.last.fm/music/Nickelback\">Read more on Last.fm</a>",
+        "numPlays": 17605491,
+        "id": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "albums": [
+          "3c5794a0-d913-390d-ab24-6762af38c112",
+          "9599042a-34a9-39f2-a52d-c903a382515c",
+          "b3fad414-9b92-4d04-b703-9605d5d33bac"
+        ]
+      },
+      "tracks": [
+        {
+          "name": "Flat on the Floor",
+          "duration": "122",
+          "id": "dfba99d9-2bde-452f-86f1-4d690e831d19"
+        },
+        {
+          "name": "Do This Anymore",
+          "duration": "244",
+          "id": "b8bc8408-2381-4e40-977b-b01a8046ccdb"
+        },
+        {
+          "name": "Someday",
+          "duration": "207",
+          "id": "fcf2709a-27ec-4b1e-b152-67a38eba7b86"
+        },
+        {
+          "name": "Believe It or Not",
+          "duration": "248",
+          "id": "624aa56a-627d-494f-8c05-744ffd599567"
+        },
+        {
+          "name": "Feelin' Way Too Damn Good",
+          "duration": "256",
+          "id": "897ba559-68bb-4ebd-ad29-c6e5bea2996c"
+        },
+        {
+          "name": "Because of You",
+          "duration": "210",
+          "id": "cd432f74-0e71-4562-941c-ca3d954608e0"
+        },
+        {
+          "name": "Figured You Out",
+          "duration": "229",
+          "id": "47528b90-d60d-4470-a50b-de9c7e41534f"
+        },
+        {
+          "name": "Should've Listened",
+          "duration": "223",
+          "id": "eb35299b-420c-4c54-9c1e-a5fb0e83b80e"
+        },
+        {
+          "name": "Throw Yourself Away",
+          "duration": "235",
+          "id": "ef4bf904-ea05-464b-9c40-266afc701ad3"
+        },
+        {
+          "name": "Another Hole In The Head",
+          "duration": "216",
+          "id": "7c80778d-3d2c-4c7e-9066-436696f80a9f"
+        },
+        {
+          "name": "See You At The Show",
+          "duration": "244",
+          "id": "0b8093dc-2cf0-4f8e-8784-5c27fae37515"
+        }
+      ]
+    }
+  ]
+]
